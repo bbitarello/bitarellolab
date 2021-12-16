@@ -1,15 +1,15 @@
-baseURL = "/"
+baseURL = "https://bitarellolab.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Bárbara Bitarello"
 author = "Bárbara Bitarello"
 copyright = "" # set to override the auto generated copyright using org info and now year
-googleAnalytics = ""
+googleAnalytics = "UA-173463950-1"
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;" # ↩
 # set deliberately low for testing choose your preffered number based on the blog layout you've chosen
-paginate = 7
+paginate = 6
 preserveTaxonomyNames = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
 enableEmoji = true
@@ -34,7 +34,7 @@ enableEmoji = true
   description = "Bitarello lab @ BMC"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["Home","Research", "Teaching", "People", "Presentations/Press", "CV"]
+  mainSections = ["blog","talk","project" ]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -58,25 +58,25 @@ enableEmoji = true
   # to use hex colors instead of named tachyons colors, include "hex" in filename
   custom_theme = "hex-colors" 
   
-  # use an embedded font-family
+ # use an embedded font-family
   # serif options: Fraunces / EB Garamond / Bitter
-  # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
+  # sans-serif options: Commissioner / Alegreya Sans / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = "Commissioner"
   customheadingFontFamily = "Fraunces"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
- textFontFamily = "courier"
-headingFontFamily = "baskerville"
+  textFontFamily = "sans-serif"
+  headingFontFamily = "sans-serif"
 
   # Configuration of https://utteranc.es/ for comments
-#  [params.utterances]
-#    use_utterances = true
-#    repo_name = "bbitarello/bitarellolab"
-#    issue_term = "pathname" # url, pathname, or title
-#    theme = "boxy-light"
-#    label = "comments :crystal_ball:"
-
+  [params.utterances]
+    use_utterances = true
+    repo_name = "bitarellolab/bitarellolab"
+    issue_term = "pathname" # url, pathname, or title
+    theme = "boxy-light"
+    label = "comments :crystal_ball:"
+    
   # Configuration of math rendering
   [params.math]
     renderer = "katex" # one of "mathjax" / "katex" 
@@ -91,6 +91,10 @@ headingFontFamily = "baskerville"
       icon_pack = "fab"
       url       = "https://github.com/bbitarello/"
   [[params.social]]
+      icon      = "twitter" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://twitter.com/dudutchy"
+  [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=4N3s92MAAAAJ&hl=en"
@@ -102,39 +106,54 @@ headingFontFamily = "baskerville"
       icon      = "impactstory" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://impactstory.org/u/0000-0001-7676-9367"
+  [[params.social]]
+      icon      = "youtube" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.youtube.com/channel/UCuZ2G_mWD7_rX9rFoHv0E2w"
+  [[params.social]]
+      icon     = "linkedin"
+      icon_pack = "fab"
+      url = "https://www.linkedin.com/in/barbarabitarello/"
+ [[params.social]]
+      icon     = "orcid"
+      icon_pack = "ai"
+      url = "https://orcid.org/0000-0001-7676-9367"
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
+  author = "authors"
 
 [menu]
   # Configure header 
+[[menu.header]]
   [[menu.header]]
-    name = "Home"
-    title = "Home"
-    url = "/home/"
+    name = "About"
+    title = "Take a tour"
+    url = "/about/"
     weight = 1
     [[menu.header]]
-    name = "Research"
-    title = "Research"
-    url = "/research/"
+    name = "Projects"
+    title = "Projects"
+    url = "/project/"
     weight = 2
-    [[menu.header]]
-    name = "People"
-    title = "People"
-    url = "/people/"
-    weight = 3
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
-    weight = 4
+    weight = 3
   [[menu.header]]
     name = "Presentations/Press"
-    title = "Talks"
+    title = "Presentations/Press"
     url = "/talk/"
+    weight = 4
+    [[menu.header]]
+    name = "Blog"
+    title = "Blog"
+    url = "/blog"
     weight = 5
+    
   [[menu.header]]
     name = "CV"
     title = "CV"

@@ -1,18 +1,15 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
-action_type: text
-description:  I am an Assistant Professor of Biology and a computational biologist/geneticist. I am very interested in all things related to human evolution. In my lab be tackle questions in human evolution by using a computational molecular evolution and population genomics approach. 
-image_left: true
+title: "Bitarello Lab"
+subtitle:  "@ Bryn Mawr College"
+description:  The Bitarello lab uses computational biology approaches to answer questions, test hypotheses, and explore topics on population genetics and evolutionary biology with a primary focus on humans and closely related species. 
 images:
 - img/Hilma_af_Klint_-_The_Ten_Largest_No._5_-_Adulthood_-_1907.jpg
+image_left: true
+text_align_left: true
+show_social_links: true # specify social accounts in site config
 show_action_link: true
-show_social_links: true
-subtitle: About
-text_align_left: false
-title: Bárbara D. Bitarello, PhD
+action_link: /about
+action_label: "Read More &rarr;"
+action_type: text # text, button
 type: home
 ---
-
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
