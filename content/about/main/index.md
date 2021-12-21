@@ -1,6 +1,6 @@
 ---
 ## Configure page content in wide column
-title: "Current research students" # leave blank to exclude
+title: "" # leave blank to exclude
 number_featured: 0 # pulling from mainSections in config.toml
 number_categories: 3 # set to zero to exclude
 show_intro: false
