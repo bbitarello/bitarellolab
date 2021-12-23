@@ -5,11 +5,12 @@ show_title_as_headline: false
 title: "People"
 ---
 
-# Research students @ BMC
+## Research students @ BMC
 
 
-{{< figure src="/static/image/kyra.jpg" title="Kyra Booth" >}}
+{{< figure src="kyra.jpg" >}}
 
+### Kyra Booth
 
   Pronouns: Any
 
@@ -17,8 +18,9 @@ title: "People"
 
   Bryn Mawr College Class of 2022
 
+----
 
-# Collaborators
+## Collaborators
 
 ### @ University of São Paulo
 

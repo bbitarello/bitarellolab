@@ -129,9 +129,9 @@ enableEmoji = true
   # Configure header 
 [[menu.header]]
   [[menu.header]]
-    name = "The lab"
-    title = "The lab"
-    url = "/about/"
+    name = "People"
+    title = "People"
+    url = "/people/"
     weight = 1
     [[menu.header]]
     name = "Projects"
@@ -169,11 +169,7 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-    [[menu.footer]]
-    name = "People"
-    title = "People"
-    url = "/people/"
-    weight = 1
+
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
