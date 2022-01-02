@@ -32,8 +32,8 @@ enableEmoji = true
   orgName = "Bárbara Bitarello"
   orgLocal = "Anywhere"
   description = "Bitarello lab @ BMC"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/dna-solid.svg"
+  logo = "/img/dna-solid.svg"
   mainSections = [ "people","talk", "publication" ]
   navallcaps = true
   # show/hide social icons in site header & footer

@@ -1,8 +1,7 @@
 ---
 author: Bárbara Bitarello
 categories:
-- research projects
- - ongoing
+- Research Projects
 date: "2020-07-04T14:18:14-04:00"
 draft: false
 excerpt: "Investigations on different methods for PRS calculation, the effects of different modelling and pruning approaches, and transferability of PRS across ancestries"
@@ -22,10 +21,13 @@ links:
 subtitle: ""
 tags:
 - PRS
-- poltgenic risk score
+- polygenic risk scores
+- polygenic risk score
 - C+T
 - precision medicine
+- admixed populations
 - phenotype prediction
+- genetic diversity
 
 title: Polygenic Risk Scores performance in diverse ancestry populations
 ---
