@@ -9,7 +9,8 @@ title: Courses taught
 
 ## BIOL B110-Biological Explorations I
 
-+ syllabus (fall 2021)
+ <i class="fas fa-file-pdf"></i>
+[syllabus (fall 2021)](/static/pdf/110-2021-Course-information.pdf)
 + youtube playlist (fall 2021)
 
 ## BIOL B216: Genomics
