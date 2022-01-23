@@ -1,4 +1,4 @@
-baseURL = "https://bitarellolab.netlify.app/"
+baseURL = "/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Bárbara Bitarello"
