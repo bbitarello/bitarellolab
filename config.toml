@@ -170,7 +170,6 @@ enableEmoji = true
     url = "/contact/"
     weight = 2
 
-
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
   [privacy.disqus]
