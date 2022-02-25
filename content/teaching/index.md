@@ -14,7 +14,7 @@ title:
 
 + <i class="fas fa-file-pdf"></i> [syllabus (Spring 2022)](/files/B216_Genomics_Syllabus_S2022.pdf)
 + <i class="fab fa-youtube"></i> [youtube playlist (Spring 2022)](https://youtu.be/6Ho6lxxmEec)
-+ [Tutorials/Lab activities](https://bitarellolab.github.io/Teaching_BMC/B216)
++ [Tutorials/Lab activities](https://github.com/bitarellolab/Teaching/tree/main/B216)
 
 
 
