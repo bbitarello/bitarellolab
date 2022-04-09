@@ -4,7 +4,7 @@ description: |
   This is home for my research publications, each linked with accompanying preprints, posters, and/or news pieces.
   <i class="fas fa-file-pdf"></i> [Full CV here](/files/bitarello_CV.pdf) 
 author: "Bárbara Bitarello"
-show_post_thumbnail: false
+show_post_thumbnail: true
 thumbnail_left: true # for list-sidebar only
 show_author_byline: true
 show_post_date: true
