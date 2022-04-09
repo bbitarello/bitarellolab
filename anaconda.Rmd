@@ -1,0 +1,77 @@
+---
+title: "Installing Anaconda and making a python 3 environment"
+output: html_notebook
+---
+
+
+# 0 check your python version.
+
+In the command line, type:
+
+```{bash}
+python --version
+#or
+python -V
+```
+
+a. If you got a version >=3, head over to step 1. 
+
+b. If you got a version < 3, run this:
+
+```{bash}
+python3 --version
+#
+```
+
+b.1. If you get some kind of result telling you which python3 version you have, good! Type this:
+
+```{bash}
+open ~/.zshrc
+```
+b.2. A file will open. Paste the following into the first line of that file:
+
+```{bash}
+alias python=/usr/local/bin/python3
+```
+
+b.3. Save the file and close it. Then type:
+```{bash}
+source ~/.zshrc
+```
+
+b.4 And finally:
+```{bash}
+python --version
+```
+Hopefully this now returns a python version >=3!
+
+# INSTALLING PYTHON 3
+If you have no python3 installed, let's install it.
+**ONLY RUN THIS IF YOU DON"T HAVE PYTHON3 INSTALLED**
+
+* Go to the Python.org downloads page here and download the latest python installer package.
+*Run the Python installer package and install Python 3 onto the Mac
+*Python 3.8.x requires about 100mb of disk space to install. Installation is quick, and you’ll have Python 3.x alongside Python 2.x on the Mac.
+*Once the installation concludes, go to your terminal and type:
+```{bash}
+python3
+```
+*Whether you install the updated Python 3 with the package installer or Homebrew, the default version of Python 2.7 that comes preinstalled with Mac OS and Mac OS X will still be installed, completely untouched, and can be run with the simple “python” command as always.
+*If you want to avoid having to type python3 everytime, follow isntructions b.1-b4 above and then head over to #1!
+
+
+# 1. What is Anaconda?
+
+
+
+# 2. How do I install it?
+
+You can follow the wonderful instructions from data camp [here](https://www.datacamp.com/community/tutorials/installing-anaconda-mac-os-x) or simply follow the shorter version below:
+
+*Go to the [Anaconda website](https://www.anaconda.com/products/individual#macos) and choose a Python 3.x graphical installer.
+*Download the "individual edition" and follow the instructions as your normally would for a Mac package.
+*Note that when you install Anaconda, it modifies your bash profile with anaconda3.This can important for later. Click on Continue.
+*You should get a screen saying the installation has completed. Close the installer and move it to the trash.
+
+# 3. Test your installation
+
