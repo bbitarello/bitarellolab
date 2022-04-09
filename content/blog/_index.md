@@ -4,7 +4,7 @@ cascade:
   author: Bárbara Bitarello
   show_author_byline: false
   show_comments: false
-  show_post_date: false
+  show_post_date: true
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent posts
