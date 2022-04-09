@@ -9,18 +9,8 @@
 		<article class="center mb4 mb5-l">
 			<header>
 				<h1 class="f3 mt0 mb2 lh-title underline fw4">
-					{{ if .Params.link }}<a
-						href="{{ .Params.link }}"
-						class="db"
-						target="_blank"
-						rel="noopener"
-						>{{ .Title | markdownify }}</a
-					>
-					{{ else }}<span class="db">{{ .Title | markdownify }}</span>{{ end }}
-				</h1>
-				<!-- <h1 class="f3 mt0 mb2 lh-title underline fw4">
 					<a href="{{ .RelPermalink }}" class="db">{{ .Title | markdownify }}</a>
-				</h1>				 -->
+				</h1>				
 			</header>
 
 			<p class="f4 db mv2">
@@ -33,10 +23,9 @@
 
 			<footer>
 				{{ with .Params.tags }}
-				<dl class="f6 lh-copy">
-				  <dt class="fw7">Tags:</dt>
-				  <dd class="fw5 ml0">{{ range . }} <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}</dd>
-				</dl>
+				<div class="f6 lh-copy">
+				  <div class="fw5 ml0">Tags: {{ range . }} <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}</div>
+				</div>
 				{{ end }}				
 				{{ if .Params.show_author_byline }}
 				{{ end }} {{ if .Params.abstract }}

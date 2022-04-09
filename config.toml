@@ -126,13 +126,12 @@ enableEmoji = true
 
 [menu]
   # Configure header 
-[[menu.header]]
   [[menu.header]]
     name = "People"
     title = "People"
     url = "/people/"
     weight = 1
-    [[menu.header]]
+  [[menu.header]]
     name = "Projects"
     title = "Projects"
     url = "/project/"
@@ -147,7 +146,7 @@ enableEmoji = true
     title = "Talks/Press"
     url = "/talk/"
     weight = 4
-    [[menu.header]]
+  [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
