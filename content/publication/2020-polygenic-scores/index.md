@@ -1,6 +1,6 @@
 ---
 title: 'Polygenic scores for height in admixed populations'
-author: 'Bárbara D. Bitarello, Iain Mathieson'
+authors: 'Bárbara D. Bitarello, Iain Mathieson'
 date: '2020-11-01'
 slug: bitarello-2020
 categories:
