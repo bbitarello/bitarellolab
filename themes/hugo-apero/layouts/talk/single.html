@@ -23,8 +23,10 @@
         {{ partial "shared/post-pagination.html" . }}
       </footer>
     </article>
-    {{ if .Params.show_comments }}
-      {{ partial "shared/comments.html" . }}
+    {{ if .Params.show_disqus_comments }}
+    <div class="post-comments pa0 pa4-l mt4">
+      {{ template "_internal/disqus.html" . }}
+    </div>
     {{ end }}
   </section>
 </main>
