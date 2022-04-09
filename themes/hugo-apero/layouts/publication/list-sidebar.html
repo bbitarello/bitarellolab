@@ -1,0 +1,50 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+	<section class="blog-intro mw7 center mb5">
+		<h2 class="f2 f1-ns lh-solid">{{ .Params.title }}</h2>
+	</section>
+	<section class="blog-content mw7 center">
+		{{ $caller := . }} {{ $paginator := .Paginate (where .RegularPagesRecursive "Type"
+		.Section).ByDate.Reverse }} {{ range $paginator.Pages }} {{ .Scratch.Set "$root" $caller }}
+		<article class="center mb4 mb5-l">
+			<header>
+				<h1 class="f3 mt0 mb2 lh-title underline fw4">
+					{{ if .Params.link }}<a
+						href="{{ .Params.link }}"
+						class="db"
+						target="_blank"
+						rel="noopener"
+						>{{ .Title | markdownify }}</a
+					>
+					{{ else }}<span class="db">{{ .Title | markdownify }}</span>{{ end }}
+				</h1>
+				<!-- <h1 class="f3 mt0 mb2 lh-title underline fw4">
+					<a href="{{ .RelPermalink }}" class="db">{{ .Title | markdownify }}</a>
+				</h1>				 -->
+			</header>
+
+			<p class="f4 db mv2">
+				{{ .Params.publication }}
+				<strong> ({{ .PublishDate.Format "2006" }})</strong>
+			</p>
+
+			<footer>
+				{{ if .Params.show_author_byline }}
+				<p class="f5 db mv1">
+					{{ if .Params.authors }}<strong>Authors:</strong> {{ .Params.authors }}{{ end }}
+				</p>
+				{{ end }} {{ if .Params.abstract }}
+				<p class="f6 db mv2">{{ .Params.abstract }}</p>
+				{{ end }} {{ if and .Params.show_button_links .Params.links }}
+				<p class="db pt1">{{ partial "shared/btn-links.html" . }}</p>
+				{{ end }}
+			</footer>
+		</article>
+
+		{{ end }} {{ partial "shared/list-pagination.html" . }}
+	</section>
+</main>
+<aside class="page-sidebar" role="complementary">
+	{{ partial "shared/sidebar-scaffold.html" . }}
+</aside>
+{{ end }}
