@@ -27,12 +27,18 @@
 				{{ .Params.publication }}
 				<strong> ({{ .PublishDate.Format "2006" }})</strong>
 			</p>
+			<p class="f5 db mv1">
+				{{ if .Params.authors }}<strong>Authors:</strong> {{ .Params.authors }}{{ end }}
+			</p>
 
 			<footer>
+				{{ with .Params.tags }}
+				<dl class="f6 lh-copy">
+				  <dt class="fw7">Tags:</dt>
+				  <dd class="fw5 ml0">{{ range . }} <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}</dd>
+				</dl>
+				{{ end }}				
 				{{ if .Params.show_author_byline }}
-				<p class="f5 db mv1">
-					{{ if .Params.authors }}<strong>Authors:</strong> {{ .Params.authors }}{{ end }}
-				</p>
 				{{ end }} {{ if .Params.abstract }}
 				<p class="f6 db mv2">{{ .Params.abstract }}</p>
 				{{ end }} {{ if and .Params.show_button_links .Params.links }}
