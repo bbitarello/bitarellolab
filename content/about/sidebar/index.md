@@ -1,6 +1,6 @@
 ---
 ## Configure sidebar content in narrow column
-author: "Bárbara Bitarello"
+author: "Bárbara Domingues Bitarello"
 role: "Assistant Professor of Biology @ BMC"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config

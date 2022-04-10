@@ -1,11 +1,11 @@
 ---
 date: "2019-02-25T13:38:41-06:00"
 description: If you would like to learn about research opportunities at the Bitarello Lab, propose collaborations, talks, anything (!), please use the form below. Below are some links were you can find more about my work.
-draft: false
+draft: true
 formspree_form_id: bbitarello@brynmawr.edu
 layout: split-right
 name: Contact Us Form
-show_poweredby_formspree: true
+show_poweredby_formspree: false
 show_social_links: true
 submit_button_label: Send Message
 title: Contact

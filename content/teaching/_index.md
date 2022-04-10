@@ -1,10 +1,19 @@
 ---
-description: List of courses I taught by me at Bryn Mawr College
-draft: false
-layout: standard
-show_title_as_headline: true
-title:
+cascade:
+  show_author_byline: true
+  show_comments: false
+  show_post_date: true
+description: Past and ongoing
+layout: list-sidebar
+show_author_byline: false
+show_button_links: false
+show_post_date: false
+show_post_thumbnail: true
+title: Courses I teach or taught @ BMC
 ---
+
+** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
+
 
 ## BIOL B110-Biological Explorations I
  + <i class="fas fa-file-pdf"></i> [syllabus (Fall 2021)](/files/B110-2021-CourseInfo.pdf) 

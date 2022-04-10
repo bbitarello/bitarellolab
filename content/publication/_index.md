@@ -7,7 +7,7 @@ cascade:
     show_comments: false # see site config to choose Disqus or Utterances
     # for single-sidebar layout
     sidebar:
-        text_link_label: View recent posts
+        text_link_label: View recent publica
         text_link_url: /publication/
         show_sidebar_adunit: false # show ad container
 description: |
@@ -31,7 +31,6 @@ sidebar:
         This is home for my research publications, each linked with accompanying preprints, posters, and/or news pieces. 
 
         <i class="fas fa-file-pdf"></i> [Full CV here](/files/bitarello_CV.pdf)
-    text_link_label: Subscribe via RSS
     text_link_url: /index.xml
     show_sidebar_adunit: false
 ---

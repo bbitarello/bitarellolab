@@ -49,7 +49,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
   #         poppy / sky / violet / water 
-  theme = "violet"
+  theme = "forest"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -127,46 +127,47 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "People"
+    name = "About"
+    title = "About us"
+    url = "/about/"
+    weight = 1
+    [[menu.header]]
+    name = "people"
     title = "People"
     url = "/people/"
-    weight = 1
+    weight = 2
   [[menu.header]]
     name = "Projects"
     title = "Projects"
     url = "/project/"
-    weight = 2
+    weight = 3
   [[menu.header]]
     name = "Teaching"
     title = "Teaching"
     url = "/teaching/"
-    weight = 3
+    weight = 4
   [[menu.header]]
     name = "Talks/Press"
-    title = "Talks/Press"
+    title = "Talks, Interviews, etc"
     url = "/talk/"
-    weight = 4
+    weight = 5
   [[menu.header]]
     name = "Blog"
     title = "Blog"
     url = "/blog/"
-    weight = 5
+    weight = 6
   [[menu.header]]
     name = "Publications"
     title = "Publications"
     url = "/publication/"
-    weight = 6
+    weight = 7
   # Configure footer  
   [[menu.footer]]
     name = "License"
     title = "License"
     url = "/license/"
     weight = 1
-  [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
+ 
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
