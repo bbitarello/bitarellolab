@@ -3,13 +3,13 @@ cascade:
   show_author_byline: true
   show_comments: false
   show_post_date: true
-description: Past and ongoing
+description: Courses I teach or taught @ BMC
 layout: list-sidebar
 show_author_byline: false
 show_button_links: false
 show_post_date: false
 show_post_thumbnail: true
-title: Courses I teach or taught @ BMC
+title: Teaching
 ---
 
 ** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
