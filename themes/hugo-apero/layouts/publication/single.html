@@ -1,0 +1,37 @@
+{{ define "main" }}
+<main class="page-main pa4" role="main">
+	<section class="page-content mw7 center">
+		<article class="post-content pa0 ph4-l">
+			<header class="post-header">
+				<h1 class="f1 lh-solid measure-narrow mb3 fw4">{{ .Title }}</h1>
+				{{ if .Params.subtitle }}
+				<h4 class="f4 mt0 mb4 lh-title measure">{{ .Params.subtitle }}</h4>
+				{{ end }} {{ if .PublishDate }}
+				<p class="f7 db mv0 ttu">{{ .PublishDate.Format "January 2, 2006" }}</p>
+				{{ end }} {{ if .Params.links }}
+				<div class="ph0 pt5">{{ partial "shared/btn-links.html" . }}</div>
+				{{ end }}
+			</header>
+			<section class="post-body pt2 pb4">
+				{{ if .Params.abstract }}
+				<h3 class="mb2">Abstract</h3>
+				<p class="f5 mv2">{{ .Params.abstract }}</p>
+				{{ end }}				
+				{{ with .Params.tags }}
+				<div class="f6 lh-copy mt4">
+				  <div class="fw5 ml0">Tags: {{ range . }} <a href="{{ "tags/" | absURL }}{{ . | urlize }}">{{ . }}</a> {{ end }}</div>
+				</div>
+				{{ end }}
+				<div class="f6 lh-copy">
+					<h4 class="fw7 mb2">See Also:</h4>
+					{{ range first 3 ( where ( where .Site.Pages.ByDate.Reverse ".Params.tags" "intersect" .Params.tags ) "Permalink" "!=" .Permalink ) }}
+					<div class="fw5 ml0"><a href="{{ .RelPermalink }}">{{ .Title }}</a></div>
+					{{ end }}
+				</div>							
+			</section>
+			<footer class="post-footer">{{ partial "shared/post-pagination.html" . }}</footer>
+		</article>
+		{{ if .Params.show_comments }} {{ partial "shared/comments.html" . }} {{ end }}
+	</section>
+</main>
+{{ end }}

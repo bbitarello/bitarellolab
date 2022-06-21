@@ -8,11 +8,11 @@ tags:
 - ldpred
 - C+T
 - PRS
+- polygenic risk score
 date: "2020-07-02"
 draft: false
-excerpt: Add tabbed sections to your posts.
+excerpt: Summarizing the new LDpred2 method
 layout: single
-subtitle: Summarizing the new LDpred2 method
 title: "LDpred2: Better, Faster, Stronger"
 ---
 

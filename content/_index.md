@@ -11,5 +11,6 @@ show_action_link: true
 action_link: /about
 action_label: "More about the lab &rarr;"
 action_type: text # text, button
+action_label: "Read More <i class='fas fa-rocket'></i>"
 type: home
 ---

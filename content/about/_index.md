@@ -1,6 +1,7 @@
 ---
 title: "About us"
-description: 
+description: |
+      The Bitarello Lab @ BMC
 show_header: true
 sidebar_left: true
 # Keep this! Do not edit.

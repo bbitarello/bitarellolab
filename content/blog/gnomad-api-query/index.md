@@ -1,31 +1,21 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
 title: "GnomAD API Query Tool"
 subtitle: "If you've been trying to find an API query tool for gnomAD, you found it!"
-summary: ""
-authors: [Bárbara Bitarello]
-tags: [software, gnomAD, computational biology, JSON, API, allele frequencies, tutorial]
-categories: [post, tutorial]
-date: 2020-07-21T19:09:57-04:00
-lastmod: 2020-07-21T19:09:57-04:00
+authors: Bárbara Bitarello
+date: "2020-07-21"
+tags: 
+- software
+- genome browser
+- bioinformatics
+- computational biology
+- JSON
+- API
+- allele frequencies
+- SFS
+- tutorial
+- collaboration
 featured: true
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image:
-  caption: ""
-  focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
 ---
 Tl; dr, I love to tell a good story. If you don't wanna read that, no worries. Just [skip ahead](#a-brief-tutorial) or get [straight to business](https://github.com/crankysparrow/computationalbio)!
 

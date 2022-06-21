@@ -12,7 +12,7 @@ tags:
 - Balancing Selection
 title: Balancing selection and adaptive evolution
 ---
----
+
 
 ### Balancing Selection is an umbrella term
 
