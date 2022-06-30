@@ -34,7 +34,7 @@ enableEmoji = true
   description = "Bitarello lab @ BMC"
   favicon = "/img/dna-solid.svg"
   logo = "/img/dna-solid.svg"
-  mainSections = [ "people","talk", "publication" ]
+  mainSections = [ "people","talk", "publication", "project" ]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -127,7 +127,7 @@ enableEmoji = true
 [menu]
   # Configure header 
   [[menu.header]]
-    name = "About"
+    name = "about"
     title = "About us"
     url = "/about/"
     weight = 1
@@ -137,33 +137,33 @@ enableEmoji = true
     url = "/people/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
+    name = "projects"
     title = "Projects"
     url = "/project/"
     weight = 3
   [[menu.header]]
-    name = "Teaching"
+    name = "teaching"
     title = "Teaching"
     url = "/teaching/"
     weight = 4
   [[menu.header]]
-    name = "Talks/Press"
+    name = "talks/press"
     title = "Talks, Interviews, etc"
     url = "/talk/"
     weight = 5
   [[menu.header]]
-    name = "Blog"
+    name = "blog"
     title = "Blog"
     url = "/blog/"
     weight = 6
   [[menu.header]]
-    name = "Publications"
+    name = "publications"
     title = "Publications"
     url = "/publication/"
     weight = 7
   # Configure footer  
   [[menu.footer]]
-    name = "License"
+    name = "license"
     title = "License"
     url = "/license/"
     weight = 1
