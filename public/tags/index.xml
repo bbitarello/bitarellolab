@@ -6,7 +6,70 @@
     <description>Recent content in Tags on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>genomics</title>
+      <link>/tags/genomics/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human</title>
+      <link>/tags/human/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/human/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>polygenic risk scores</title>
+      <link>/tags/polygenic-risk-scores/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/polygenic-risk-scores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>precision genomics</title>
+      <link>/tags/precision-genomics/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/precision-genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRS</title>
+      <link>/tags/prs/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/prs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>race</title>
+      <link>/tags/race/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/race/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>racism</title>
+      <link>/tags/racism/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/racism/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>2022</title>
       <link>/tags/2022/</link>
@@ -62,24 +125,6 @@
     </item>
     
     <item>
-      <title>polygenic risk scores</title>
-      <link>/tags/polygenic-risk-scores/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/polygenic-risk-scores/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PRS</title>
-      <link>/tags/prs/</link>
-      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/prs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Balancing Selection</title>
       <link>/tags/balancing-selection/</link>
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
@@ -94,15 +139,6 @@
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/bitter-taste-receptors/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>genomics</title>
-      <link>/tags/genomics/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/genomics/</guid>
       <description></description>
     </item>
     
@@ -229,15 +265,6 @@
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/journal-club/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>precision genomics</title>
-      <link>/tags/precision-genomics/</link>
-      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/precision-genomics/</guid>
       <description></description>
     </item>
     
@@ -728,15 +755,6 @@
     </item>
     
     <item>
-      <title>human</title>
-      <link>/tags/human/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/human/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>molecular biology</title>
       <link>/tags/molecular-biology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -760,24 +778,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>race</title>
-      <link>/tags/race/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/race/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>racism</title>
-      <link>/tags/racism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/racism/</guid>
       <description></description>
     </item>
     
