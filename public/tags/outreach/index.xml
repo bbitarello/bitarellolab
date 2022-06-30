@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>outreach on Bárbara Bitarello</title>
+    <link>/tags/outreach/</link>
+    <description>Recent content in outreach on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ASHG podcast: American Society of Human Genetics (ASHG) Trainee Paper Spotlight</title>
+      <link>/talk/ashg-podcast/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ashg-podcast/</guid>
+      <description>Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
+Read the paper here: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;
+ Listen here</description>
+    </item>
+    
+    <item>
+      <title>Boinformatics: Chatting about polygenic risk scores</title>
+      <link>/talk/bioinformatics_chat/</link>
+      <pubDate>Thu, 25 Mar 2021 19:43:33 -0400</pubDate>
+      
+      <guid>/talk/bioinformatics_chat/</guid>
+      <description>Listen here.
+Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.
+In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.</description>
+    </item>
+    
+    <item>
+      <title>How The Lion King turned me into a scientist</title>
+      <link>/blog/how-lion-king/</link>
+      <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
+      
+      <guid>/blog/how-lion-king/</guid>
+      <description>How &#34;The Lion King&#34; turned me into a scientistRecently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...
+  </description>
+    </item>
+    
+  </channel>
+</rss>

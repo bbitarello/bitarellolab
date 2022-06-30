@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>contributed research talk on Bárbara Bitarello</title>
+    <link>/tags/contributed-research-talk/</link>
+    <description>Recent content in contributed research talk on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 17 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/contributed-research-talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Low transferability of height polygenic risk scores in admixed ancestry populations</title>
+      <link>/talk/nypopgen2020/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/nypopgen2020/</guid>
+      <description>Abstract     Polygenic risk scores (PRS) summarize the results of GWAS into a single number that can predict quantitative phenotype or disease risk. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts. There are many possible reasons for this decrease; here we show that differences in allele frequencies, LD patterns, and phenotypic variance across ancestries are unlikely to be driving this pattern.</description>
+    </item>
+    
+    <item>
+      <title>Polygenic risk scores perform poorly across populations</title>
+      <link>/talk/ashg2018/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ashg2018/</guid>
+      <description>Abstract |     The vast majority of genome-wide association studies (GWAS) are performed in cohorts of European ancestry. Systematic differences in polygenic risk scores (PRS) between European and non-European ancestry populations are believed to be largely spurious. However, it is not clear whether they are completely inaccurate nor how much individual-level predictive power is lost by applying PRS based on European-ancestry GWAS to non-European ancestry populations. Finally, a quantitative understanding of the biological or statistical basis for the poor performance of PRS in non-European-ancestry populations is lacking.</description>
+    </item>
+    
+  </channel>
+</rss>

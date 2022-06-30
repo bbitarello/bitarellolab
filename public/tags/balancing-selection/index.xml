@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balancing Selection on Bárbara Bitarello</title>
+    <link>/tags/balancing-selection/</link>
+    <description>Recent content in Balancing Selection on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/balancing-selection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balancing selection and adaptive evolution</title>
+      <link>/project/balancingselection/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/balancingselection/</guid>
+      <description>Balancing Selection is an umbrella term     Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus</title>
+      <link>/publication/2020-genome-wide-analysis-identifies/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020-genome-wide-analysis-identifies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Signatures of long-term balancing selection in human genomes</title>
+      <link>/publication/2018-signatures-of-longerm-balancing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-signatures-of-longerm-balancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genomic perspective on HLA evolution</title>
+      <link>/publication/2017-genomic-perspective-on-hla/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-genomic-perspective-on-hla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity of dN/dS Ratios at the Classical HLA Class I Genes over Divergence Time and Across the Allelic Phylogeny</title>
+      <link>/publication/2016-heterogeneity-of-dnds-ratios/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-heterogeneity-of-dnds-ratios/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

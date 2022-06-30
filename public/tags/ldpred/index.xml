@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ldpred on Bárbara Bitarello</title>
+    <link>/tags/ldpred/</link>
+    <description>Recent content in ldpred on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ldpred/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polygenic scores for height in admixed populations</title>
+      <link>/publication/bitarello-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bitarello-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LDpred2: Better, Faster, Stronger</title>
+      <link>/blog/ldpred2/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ldpred2/</guid>
+      <description>Today we discussed the new version of LDpred: LDpred2 (preprint here).
+The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication. Rather, this seems to be a ‘Bioinformatics’ style preprint that goes straight to the novelties:
+LDpred2 runs in R instead of in Python like its predecessor;</description>
+    </item>
+    
+  </channel>
+</rss>

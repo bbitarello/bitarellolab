@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alumni on Bárbara Bitarello</title>
+    <link>/categories/alumni/</link>
+    <description>Recent content in alumni on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/categories/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kyra Booth</title>
+      <link>/people/kyra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/kyra/</guid>
+      <description>In the lab: September 2021-May 2022 - the first of their kind!
+ Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo;     </description>
+    </item>
+    
+  </channel>
+</rss>

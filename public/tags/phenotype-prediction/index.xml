@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>phenotype prediction on Bárbara Bitarello</title>
+    <link>/tags/phenotype-prediction/</link>
+    <description>Recent content in phenotype prediction on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jul 2020 14:18:14 -0400</lastBuildDate><atom:link href="/tags/phenotype-prediction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polygenic Risk Scores performance in diverse ancestry populations</title>
+      <link>/project/polygenicriskscores/</link>
+      <pubDate>Sat, 04 Jul 2020 14:18:14 -0400</pubDate>
+      
+      <guid>/project/polygenicriskscores/</guid>
+      <description>Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.
+Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple ad hoc approaches (such as C+T) or model-based approaches such as LDpred and LDpred2.</description>
+    </item>
+    
+  </channel>
+</rss>

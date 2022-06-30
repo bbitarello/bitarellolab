@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>molecular biology on Bárbara Bitarello</title>
+    <link>/tags/molecular-biology/</link>
+    <description>Recent content in molecular biology on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="/tags/molecular-biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BIOL B110: Biological Explorations</title>
+      <link>/teaching/b110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/b110/</guid>
+      <description> syllabus (fall 2021)
+ youtube playlist (fall 2021)  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>prediction on Bárbara Bitarello</title>
+    <link>/tags/prediction/</link>
+    <description>Recent content in prediction on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/prediction/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polygenic scores for height in admixed populations</title>
+      <link>/publication/bitarello-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bitarello-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations</title>
+      <link>/blog/wang/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/wang/</guid>
+      <description>This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al (2020) on the theoretical aspects of the transferability of polygenic risk scores across ancestries.
+This work provides three predictors for the relative accuracy of a polygenic risk scores (i.e., the accuracy in a test population with different ancestry than that from which the summary statistics came from,divided by the accuracy in an independent test sample of same ancestry as the original GWAS).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitarello Lab on Bárbara Bitarello</title>
+    <link>/</link>
+    <description>Recent content in Bitarello Lab on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netlify</title>
+      <link>/collection/day02/01-netlify/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day02/01-netlify/</guid>
+      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
+Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+    </item>
+    
+    <item>
+      <title>A GitHub profile</title>
+      <link>/collection/day01/01-github/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day01/01-github/</guid>
+      <description>Profile      https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile      https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README     This is new! Let&amp;rsquo;s do it:
+ https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+    </item>
+    
+    <item>
+      <title>Prework</title>
+      <link>/collection/prework/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/prework/</guid>
+      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
+Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+    </item>
+    
+    <item>
+      <title>Gillyoung Koh</title>
+      <link>/people/gillyoung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gillyoung/</guid>
+      <description>Pronouns: she/her
+Bryn Mawr College Class of 2024
+Biochemistry Major
+From Broomall, PA
+Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
+In the lab: joined us for the summer research program 2022
+ ##Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates
+T2R or TAS2R are Type II taste receptors that are G protein-coupled receptors. When a bitter agonist binds to the receptor, the organism perceives the bitter taste.</description>
+    </item>
+    
+    <item>
+      <title>Kyra Booth</title>
+      <link>/people/kyra/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/kyra/</guid>
+      <description>In the lab: September 2021-May 2022 - the first of their kind!
+ Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo;     </description>
+    </item>
+    
+    <item>
+      <title>A postcard</title>
+      <link>/collection/day01/02-postcards/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day01/02-postcards/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;quot;postcards&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Using blogdown</title>
+      <link>/collection/day02/02-blogdown/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day02/02-blogdown/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
+install.packages(&amp;quot;blogdoown&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>A distill site</title>
+      <link>/collection/day01/03-distill/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day01/03-distill/</guid>
+      <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
+install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+ Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt;  packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
+    </item>
+    
+    <item>
+      <title>Warm woolen mittens</title>
+      <link>/collection/day02/03-blogdown/</link>
+      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/day02/03-blogdown/</guid>
+      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+    </item>
+    
+    <item>
+      <title>ASHG podcast: American Society of Human Genetics (ASHG) Trainee Paper Spotlight</title>
+      <link>/talk/ashg-podcast/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ashg-podcast/</guid>
+      <description>Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
+Read the paper here: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;
+ Listen here</description>
+    </item>
+    
+    <item>
+      <title>Interview: American Society of Human Genetics (ASHG) Trainee Paper Spotlight</title>
+      <link>/talk/2022-04-08-ashg-podcast/</link>
+      <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2022-04-08-ashg-podcast/</guid>
+      <description>Listen here
+EPISODE DETAILS     Hosts, Andrew Marderstein and Lucia Hindorff, chat with Barbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
+Link to the publication which the podcast is focusing on: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Balancing selection and adaptive evolution</title>
+      <link>/project/balancingselection/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/balancingselection/</guid>
+      <description>Balancing Selection is an umbrella term     Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
+    </item>
+    
+    <item>
+      <title>Evolution of bitter taste receptors in primates and other mammals</title>
+      <link>/project/bittertastereceptors/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/bittertastereceptors/</guid>
+      <description>Why is this interesting?     [under construction]</description>
+    </item>
+    
+    <item>
+      <title>Predicting skeletal stature using ancient DNA</title>
+      <link>/publication/cox_2021/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/cox_2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boinformatics: Chatting about polygenic risk scores</title>
+      <link>/talk/bioinformatics_chat/</link>
+      <pubDate>Thu, 25 Mar 2021 19:43:33 -0400</pubDate>
+      
+      <guid>/talk/bioinformatics_chat/</guid>
+      <description>Listen here.
+Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.
+In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.</description>
+    </item>
+    
+    <item>
+      <title>Polygenic scores for height in admixed populations</title>
+      <link>/publication/bitarello-2020/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/bitarello-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations</title>
+      <link>/blog/wang/</link>
+      <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/wang/</guid>
+      <description>This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al (2020) on the theoretical aspects of the transferability of polygenic risk scores across ancestries.
+This work provides three predictors for the relative accuracy of a polygenic risk scores (i.e., the accuracy in a test population with different ancestry than that from which the summary statistics came from,divided by the accuracy in an independent test sample of same ancestry as the original GWAS).</description>
+    </item>
+    
+    <item>
+      <title>How The Lion King turned me into a scientist</title>
+      <link>/blog/how-lion-king/</link>
+      <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
+      
+      <guid>/blog/how-lion-king/</guid>
+      <description>How &#34;The Lion King&#34; turned me into a scientistRecently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...
+  </description>
+    </item>
+    
+    <item>
+      <title>GnomAD API Query Tool</title>
+      <link>/blog/gnomad-api-query/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gnomad-api-query/</guid>
+      <description>Tl; dr, I love to tell a good story. If you don&amp;rsquo;t wanna read that, no worries. Just skip ahead or get straight to business!
+Now, to the story.
+I have been working on a project where I was using population allelic frequencies for about 6,000 SNPs (single nucleotide polymorphisms) for CEU (North Americans from UTAH with European ancestry) individuals from the 1000 Genomes Project. We have our own copy of this dataset in our computer, and it&amp;rsquo;s relatively straightforward to get those frequencies from vcf files.</description>
+    </item>
+    
+    <item>
+      <title>Polygenic Risk Scores performance in diverse ancestry populations</title>
+      <link>/project/polygenicriskscores/</link>
+      <pubDate>Sat, 04 Jul 2020 14:18:14 -0400</pubDate>
+      
+      <guid>/project/polygenicriskscores/</guid>
+      <description>Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.
+Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple ad hoc approaches (such as C+T) or model-based approaches such as LDpred and LDpred2.</description>
+    </item>
+    
+    <item>
+      <title>LDpred2: Better, Faster, Stronger</title>
+      <link>/blog/ldpred2/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ldpred2/</guid>
+      <description>Today we discussed the new version of LDpred: LDpred2 (preprint here).
+The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication. Rather, this seems to be a ‘Bioinformatics’ style preprint that goes straight to the novelties:
+LDpred2 runs in R instead of in Python like its predecessor;</description>
+    </item>
+    
+    <item>
+      <title>Low transferability of height polygenic risk scores in admixed ancestry populations</title>
+      <link>/talk/nypopgen2020/</link>
+      <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/nypopgen2020/</guid>
+      <description>Abstract     Polygenic risk scores (PRS) summarize the results of GWAS into a single number that can predict quantitative phenotype or disease risk. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts. There are many possible reasons for this decrease; here we show that differences in allele frequencies, LD patterns, and phenotypic variance across ancestries are unlikely to be driving this pattern.</description>
+    </item>
+    
+    <item>
+      <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus</title>
+      <link>/publication/2020-genome-wide-analysis-identifies/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2020-genome-wide-analysis-identifies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the lack of transferability of polygenic risk scores in cohorts with admixed ancestry</title>
+      <link>/talk/ashg2019/</link>
+      <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ashg2019/</guid>
+      <description>Abstract |     Polygenic risk scores (PRS) can be used to summarize the results of genome-wide association studies (GWAS) into a single number representing the risk of disease. For some traits (for example, cardiovascular disease, breast cancer) PRS allows us to identify individuals with clinically actionable levels of risk in the tails of the PRS distribution. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts.</description>
+    </item>
+    
+    <item>
+      <title>Polygenic risk scores perform poorly across populations</title>
+      <link>/talk/ashg2018/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/ashg2018/</guid>
+      <description>Abstract |     The vast majority of genome-wide association studies (GWAS) are performed in cohorts of European ancestry. Systematic differences in polygenic risk scores (PRS) between European and non-European ancestry populations are believed to be largely spurious. However, it is not clear whether they are completely inaccurate nor how much individual-level predictive power is lost by applying PRS based on European-ancestry GWAS to non-European ancestry populations. Finally, a quantitative understanding of the biological or statistical basis for the poor performance of PRS in non-European-ancestry populations is lacking.</description>
+    </item>
+    
+    <item>
+      <title>Signatures of long-term balancing selection in human genomes</title>
+      <link>/publication/2018-signatures-of-longerm-balancing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-signatures-of-longerm-balancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A genomic perspective on HLA evolution</title>
+      <link>/publication/2017-genomic-perspective-on-hla/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-genomic-perspective-on-hla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Heterogeneity of dN/dS Ratios at the Classical HLA Class I Genes over Divergence Time and Across the Allelic Phylogeny</title>
+      <link>/publication/2016-heterogeneity-of-dnds-ratios/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2016-heterogeneity-of-dnds-ratios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HLA supertype variation across populations: new insights into the role of natural selection in the evolution of HLA-A and HLA-B polymorphisms</title>
+      <link>/publication/2015-hla-supertype-variations-across-populations/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-hla-supertype-variations-across-populations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kiwi genome provides insights into evolution of a nocturnal lifestyle</title>
+      <link>/publication/2015-kiwi-genome/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-kiwi-genome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mapping bias overestimates reference allele frequencies at the HLA genes in the 1000 genomes project phase I data</title>
+      <link>/publication/2015-mapping-bias-overestimates-reference/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-mapping-bias-overestimates-reference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intercruzmento de humanos modernos e neandertais: novas perspectivas a luz da genética</title>
+      <link>/publication/2011-intercruzmento-de-humanos/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2011-intercruzmento-de-humanos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development of polymorphic microsatellite markers for the human botfly, Dermatobia hominis (Diptera: Oestridae)</title>
+      <link>/publication/2009-development-of-polymorphic/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2009-development-of-polymorphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projeto Genográfico e as Implicações da Popularização dos Estudos de Genealogia Gênica</title>
+      <link>/publication/2009-projeto-genografico/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2009-projeto-genografico/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ancestry Matters: Lack of Representation of Human Genetic Diversity in Genomic Databases</title>
+      <link>/talk/2022-06-29-ancestry-matters-lack-of-representation-of-human-genetic-diversity-in-genomic-databases/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2022-06-29-ancestry-matters-lack-of-representation-of-human-genetic-diversity-in-genomic-databases/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BIOL B110: Biological Explorations</title>
+      <link>/teaching/b110/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/b110/</guid>
+      <description> syllabus (fall 2021)
+ youtube playlist (fall 2021)  </description>
+    </item>
+    
+    <item>
+      <title>BIOL B215: Biostatistics with R</title>
+      <link>/teaching/b215/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/b215/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BIOL B216: Genomics</title>
+      <link>/teaching/b216/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/b216/</guid>
+      <description>Genomics is a young and fast-evolving field of science that lies at the intersection of genetics, computer science, and biotechnology. We will examine the types of biological questions that can be answered using large biological data sets and complete genome sequences and the techniques and technologies that make such studies possible. Our primary focus will be on animal genomes and, in particular, human genomes, with special attention to evolutionary aspects of genomic data analysis.</description>
+    </item>
+    
+    <item>
+      <title>Clementine Chen</title>
+      <link>/people/clementine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/clementine/</guid>
+      <description>Hometown: Jinhua, China
+Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
+In the lab: joined us for the summer research program 2022
+ Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates     Taste is a sense that allows the perception and distinction of different flavors via specialized cells in the tongue. Taste buds are in charge of forming taste perception, and type II taste receptors (TAS2R) are the gene family that codes for bitter taste receptors, which are considered G-protein coupled receptors.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/license/</guid>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
+  </description>
+    </item>
+    
+  </channel>
+</rss>

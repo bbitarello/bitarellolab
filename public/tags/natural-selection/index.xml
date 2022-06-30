@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Natural Selection on Bárbara Bitarello</title>
+    <link>/tags/natural-selection/</link>
+    <description>Recent content in Natural Selection on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/natural-selection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Signatures of long-term balancing selection in human genomes</title>
+      <link>/publication/2018-signatures-of-longerm-balancing/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2018-signatures-of-longerm-balancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HLA supertype variation across populations: new insights into the role of natural selection in the evolution of HLA-A and HLA-B polymorphisms</title>
+      <link>/publication/2015-hla-supertype-variations-across-populations/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2015-hla-supertype-variations-across-populations/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research &amp; Outreach Projects on Bárbara Bitarello</title>
+    <link>/project/</link>
+    <description>Recent content in Research &amp; Outreach Projects on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balancing selection and adaptive evolution</title>
+      <link>/project/balancingselection/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/balancingselection/</guid>
+      <description>Balancing Selection is an umbrella term     Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
+    </item>
+    
+    <item>
+      <title>Evolution of bitter taste receptors in primates and other mammals</title>
+      <link>/project/bittertastereceptors/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/bittertastereceptors/</guid>
+      <description>Why is this interesting?     [under construction]</description>
+    </item>
+    
+    <item>
+      <title>Polygenic Risk Scores performance in diverse ancestry populations</title>
+      <link>/project/polygenicriskscores/</link>
+      <pubDate>Sat, 04 Jul 2020 14:18:14 -0400</pubDate>
+      
+      <guid>/project/polygenicriskscores/</guid>
+      <description>Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.
+Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple ad hoc approaches (such as C+T) or model-based approaches such as LDpred and LDpred2.</description>
+    </item>
+    
+  </channel>
+</rss>

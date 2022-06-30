@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Bárbara Bitarello</title>
+    <link>https://bbitarello.github.io/slides/</link>
+      <atom:link href="https://bbitarello.github.io/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Copyright 2019-2020 [Bárbara Bitarello](https://twitter.com/dudutchy).</copyright><lastBuildDate>Thu, 02 Jul 2020 17:04:29 -0400</lastBuildDate>
+    <item>
+      <title>LDpred2: Faster, Better, Stronger</title>
+      <link>https://bbitarello.github.io/slides/my-first-slide/</link>
+      <pubDate>Thu, 02 Jul 2020 17:04:29 -0400</pubDate>
+      <guid>https://bbitarello.github.io/slides/my-first-slide/</guid>
+      <description>&lt;p&gt;Here is 
+&lt;a href=&#34;https://github.com/bbitarello/LDpred2-Presentation/blob/master/LDpred2_Journal_Club%20%283%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a slide presentation&lt;/a&gt; for discussing the 
+&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LDpred2 preprint&lt;/a&gt;. Use freely but please give me attribution by referencing my website and my github. Thank you.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

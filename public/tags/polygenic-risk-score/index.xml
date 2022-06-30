@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>polygenic risk score on Bárbara Bitarello</title>
+    <link>/tags/polygenic-risk-score/</link>
+    <description>Recent content in polygenic risk score on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 04 Jul 2020 14:18:14 -0400</lastBuildDate><atom:link href="/tags/polygenic-risk-score/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Polygenic Risk Scores performance in diverse ancestry populations</title>
+      <link>/project/polygenicriskscores/</link>
+      <pubDate>Sat, 04 Jul 2020 14:18:14 -0400</pubDate>
+      
+      <guid>/project/polygenicriskscores/</guid>
+      <description>Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.
+Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple ad hoc approaches (such as C+T) or model-based approaches such as LDpred and LDpred2.</description>
+    </item>
+    
+    <item>
+      <title>LDpred2: Better, Faster, Stronger</title>
+      <link>/blog/ldpred2/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ldpred2/</guid>
+      <description>Today we discussed the new version of LDpred: LDpred2 (preprint here).
+The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication. Rather, this seems to be a ‘Bioinformatics’ style preprint that goes straight to the novelties:
+LDpred2 runs in R instead of in Python like its predecessor;</description>
+    </item>
+    
+  </channel>
+</rss>

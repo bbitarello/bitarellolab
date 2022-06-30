@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ldpred2 on Bárbara Bitarello</title>
+    <link>/tags/ldpred2/</link>
+    <description>Recent content in ldpred2 on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ldpred2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LDpred2: Better, Faster, Stronger</title>
+      <link>/blog/ldpred2/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/ldpred2/</guid>
+      <description>Today we discussed the new version of LDpred: LDpred2 (preprint here).
+The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication. Rather, this seems to be a ‘Bioinformatics’ style preprint that goes straight to the novelties:
+LDpred2 runs in R instead of in Python like its predecessor;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SFS on Bárbara Bitarello</title>
+    <link>/tags/sfs/</link>
+    <description>Recent content in SFS on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/sfs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GnomAD API Query Tool</title>
+      <link>/blog/gnomad-api-query/</link>
+      <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/gnomad-api-query/</guid>
+      <description>Tl; dr, I love to tell a good story. If you don&amp;rsquo;t wanna read that, no worries. Just skip ahead or get straight to business!
+Now, to the story.
+I have been working on a project where I was using population allelic frequencies for about 6,000 SNPs (single nucleotide polymorphisms) for CEU (North Americans from UTAH with European ancestry) individuals from the 1000 Genomes Project. We have our own copy of this dataset in our computer, and it&amp;rsquo;s relatively straightforward to get those frequencies from vcf files.</description>
+    </item>
+    
+  </channel>
+</rss>
