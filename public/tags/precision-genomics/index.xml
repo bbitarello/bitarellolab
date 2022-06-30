@@ -6,7 +6,16 @@
     <description>Recent content in precision genomics on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/precision-genomics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/precision-genomics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ancestry Matters: Lack of Representation of Human Genetic Diversity in Genomic Databases</title>
+      <link>/talk/2022-06-29-ancestry-matters-lack-of-representation-of-human-genetic-diversity-in-genomic-databases/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/2022-06-29-ancestry-matters-lack-of-representation-of-human-genetic-diversity-in-genomic-databases/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations</title>
       <link>/blog/wang/</link>
@@ -24,15 +33,6 @@ This work provides three predictors for the relative accuracy of a polygenic ris
       
       <guid>/talk/ashg2018/</guid>
       <description>Abstract |     The vast majority of genome-wide association studies (GWAS) are performed in cohorts of European ancestry. Systematic differences in polygenic risk scores (PRS) between European and non-European ancestry populations are believed to be largely spurious. However, it is not clear whether they are completely inaccurate nor how much individual-level predictive power is lost by applying PRS based on European-ancestry GWAS to non-European ancestry populations. Finally, a quantitative understanding of the biological or statistical basis for the poor performance of PRS in non-European-ancestry populations is lacking.</description>
-    </item>
-    
-    <item>
-      <title>Ancestry Matters: Lack of Representation of Human Genetic Diversity in Genomic Databases</title>
-      <link>/talk/2022-06-29-ancestry-matters-lack-of-representation-of-human-genetic-diversity-in-genomic-databases/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/talk/2022-06-29-ancestry-matters-lack-of-representation-of-human-genetic-diversity-in-genomic-databases/</guid>
-      <description></description>
     </item>
     
   </channel>
