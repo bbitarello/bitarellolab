@@ -1,7 +1,8 @@
 ---
-title: "ASHG podcast: American Society of Human Genetics (ASHG) Trainee Paper Spotlight"
+title: "American Society of Human Genetics (ASHG) Trainee Paper Spotlight"
 date: 2022-03-31
 draft: false
+event: ASHG podcast
 tags:
 - podcast
 - interview

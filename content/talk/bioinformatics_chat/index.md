@@ -1,6 +1,7 @@
 ---
 title: "Boinformatics: Chatting about polygenic risk scores"
 date: 2021-03-25T19:43:33-04:00
+event: Bioinformatics Chat Podcast
 draft: false
 tags:
 - podcast
