@@ -1,5 +1,5 @@
 ---
-cascade:
+sidebar:
   show_author_byline: false
   show_comments: false
   show_post_date: true

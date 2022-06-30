@@ -1,6 +1,5 @@
 ---
-title: "Ancestry Matters"
-subtitle: "Lack of Representation of Human Genetic Diversity in Genomic Databases"
+title: "Ancestry Matters: Lack of Representation of Human Genetic Diversity in Genomic Databases"
 
 excerpt: "I was delighted to have been invited as one of the guest speakers for this series of talks, followed by an in-person discussion in Boston"
 
@@ -14,6 +13,7 @@ author: "Bárbara Bitarello"
 location: "Boston University"
 
 draft: false
+date: "2022-05-19"
 layout: single
 tags:
 - genomics
