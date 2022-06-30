@@ -11,6 +11,7 @@ tags:
 - PRS
 - polygenic risk scores
 - height
+- precision genomics
 ---
 
 ### Abstract |
