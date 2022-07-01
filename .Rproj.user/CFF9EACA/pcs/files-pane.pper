@@ -9,9 +9,5 @@
             "ascending": true
         }
     ],
-<<<<<<< Updated upstream
-    "path": "~/Documents/GitHub/bitarellolab/content/people/current"
-=======
-    "path": "~/Documents/GitHub/BalSelRev"
->>>>>>> Stashed changes
+    "path": "~/Documents/GitHub/bitarellolab/content/talk/bioinformatics_chat"
 }
