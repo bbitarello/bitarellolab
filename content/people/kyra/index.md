@@ -2,8 +2,8 @@
 title: "Kyra Booth"
 date: []
 slug: []
-subtitle:"Pronouns: any // Biochemistry Major, Russian Minor ('22)"
-excerpt: "Pronouns: any // Biochemistry Major, Russian Minor ('22)"
+subtitle:"Pronouns: any - Biochemistry Major, Russian Minor ('22)"
+excerpt: "Pronouns: any - Biochemistry Major, Russian Minor ('22)"
 
 weight: 1
 

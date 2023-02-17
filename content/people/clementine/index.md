@@ -1,10 +1,10 @@
 ---
 title: "Clementine Chen"
-subtitle: "Pronouns: she/her//Biology Major and Data Science Minor ('24)"
+subtitle: "Pronouns: she/her/hers - Biology Major, Data Science Minor ('24)"
 
-excerpt: "Pronouns: she/her//Biology Major and Data Science Minor ('24)"
+excerpt: "Pronouns: she/her/hers - Biology Major, Data Science Minor ('24)"
 
-slug: []
+slug: 05/30/2022
   
 # layout options: single or single-sidebar
 layout: single-sidebar
@@ -31,6 +31,12 @@ draft: false
 ---
 <img src="featured.jpg" alt="" width="30%" height="20%"/>
 
+Pronouns: she/her/hers 
+
+Bryn Mawr College Class of 2024 
+
+Biology Major, Data Science Minor
+
 Hometown: Jinhua, China
 
 Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat. 
@@ -38,6 +44,7 @@ Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
 In the lab: joined us for the summer research program 2022
 
 -----------------------------------------------------------------
+
 ## Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates
 
 Taste is a sense that allows the perception and distinction of different flavors via specialized cells in the tongue. Taste buds are in charge of forming taste perception, and type II taste receptors (TAS2R) are the gene family that codes for bitter taste receptors, which are considered G-protein coupled receptors. Combined, these receptors can bind to a large number of molecules, and each receptor has a specific affinity to different molecules. Since bitter taste is important for animals to avoid swallowing potentially harmful chemicals, we believe that the TAS2R genes that code for bitter taste receptors may have evolutionary significance to humans and other primates. Inside the protein family, there are 25 protein-coding genes and 11 pseudogenes that are found in humans.
