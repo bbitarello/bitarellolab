@@ -10,6 +10,7 @@ blogdown::check_config()
 blogdown::serve_site()
 blogdown::stop_server()
 blogdown::check_site()
+blogdown::build_site()
 
 
 ````
