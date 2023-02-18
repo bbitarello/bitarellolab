@@ -14,6 +14,10 @@ blogdown::build_site()
 
 
 ````
+
+https://hugo-apero-docs.netlify.app/start/setup/
+
+
 https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/
 
 https://hugo-apero-docs.netlify.app/start/section-config/

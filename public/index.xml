@@ -14,7 +14,7 @@
       
       <guid>/collection/day02/01-netlify/</guid>
       <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
-Pre-requisites     Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
+Pre-requisites Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
     </item>
     
     <item>
@@ -23,10 +23,10 @@ Pre-requisites     Pick either your postcards site, or your distill site from da
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/collection/day01/01-github/</guid>
-      <description>Profile      https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
-Pin projects to profile      https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-Profile README     This is new! Let&amp;rsquo;s do it:
- https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
+      <description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
+Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
+Profile README This is new! Let&amp;rsquo;s do it:
+https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
     </item>
     
     <item>
@@ -36,7 +36,7 @@ Profile README     This is new! Let&amp;rsquo;s do it:
       
       <guid>/collection/prework/</guid>
       <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
-Set up RStudio Cloud     Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember).</description>
+Set up RStudio Cloud Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.</description>
     </item>
     
     <item>
@@ -51,7 +51,7 @@ Biochemistry and Molecular Biology Major
 From Broomall, PA
 Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
 In the lab: joined us for the summer research program 2022
- Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates     T2R or TAS2R are Type II taste receptors that are G protein-coupled receptors.</description>
+Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates T2R or TAS2R are Type II taste receptors that are G protein-coupled receptors.</description>
     </item>
     
     <item>
@@ -60,8 +60,8 @@ In the lab: joined us for the summer research program 2022
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/people/kyra/</guid>
-      <description>In the lab: September 2021-May 2022 - the first of their kind!
- Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo;     </description>
+      <description> In the lab: September 2021-May 2022 - the first of their kind!
+Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; </description>
     </item>
     
     <item>
@@ -70,9 +70,10 @@ In the lab: joined us for the summer research program 2022
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/collection/day01/02-postcards/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the postcards package installed from CRAN:
-install.packages(&amp;quot;postcards&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’  Create GitHub repo     Online.</description>
+      <description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:
+install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-postcard.git&amp;quot;) ✨ Commit &amp;amp; Push! ✨</description>
     </item>
     
     <item>
@@ -81,9 +82,10 @@ install.packages(&amp;quot;postcards&amp;quot;)  Restart your R session. If you 
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/collection/day02/02-blogdown/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the blogdown package installed from CRAN:
-install.packages(&amp;quot;blogdoown&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’  Create GitHub repo     Online.</description>
+      <description>Pre-requisites First, make sure you have the latest version of the blogdown package installed from CRAN:
+install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-blogdown.git&amp;quot;) ✨ Commit &amp;amp; Push! ✨</description>
     </item>
     
     <item>
@@ -92,9 +94,10 @@ install.packages(&amp;quot;blogdoown&amp;quot;)  Restart your R session. If you 
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/collection/day01/03-distill/</guid>
-      <description>Pre-requisites     First, make sure you have the latest version of the distill package installed from CRAN:
-install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
- Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS).  &amp;lt;!-- --&amp;gt;  packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’  Create GitHub repo     Online.</description>
+      <description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:
+install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
+Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’ Create GitHub repo Online.
+Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) ✨ Commit &amp;amp; Push!</description>
     </item>
     
     <item>
@@ -103,9 +106,9 @@ install.packages(&amp;quot;distill&amp;quot;)  Restart your R session. If you us
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>/collection/day02/03-blogdown/</guid>
-      <description>Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/collection/day02/03-blogdown/index.md  To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: collection  My layout is: single-series   part 2!     does this work?      now for some very cool things     more     get ready!</description>
+      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
+Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
+My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     
     <item>
@@ -125,7 +128,7 @@ My content section is: collection  My layout is: single-series   part 2!     doe
       <guid>/talk/ashg-podcast/</guid>
       <description>Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
 Read the paper here: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;
- Listen here</description>
+Listen here</description>
     </item>
     
     <item>
@@ -135,7 +138,7 @@ Read the paper here: &amp;ldquo;Polygenic Scores for Height in Admixed Populatio
       
       <guid>/talk/2022-04-08-ashg-podcast/</guid>
       <description>Listen here
-EPISODE DETAILS     Hosts, Andrew Marderstein and Lucia Hindorff, chat with Barbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
+EPISODE DETAILS Hosts, Andrew Marderstein and Lucia Hindorff, chat with Barbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
 Link to the publication which the podcast is focusing on: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;</description>
     </item>
     
@@ -145,7 +148,7 @@ Link to the publication which the podcast is focusing on: &amp;ldquo;Polygenic S
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/project/balancingselection/</guid>
-      <description>Balancing Selection is an umbrella term     Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
+      <description>Balancing Selection is an umbrella term Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
     </item>
     
     <item>
@@ -154,7 +157,7 @@ Link to the publication which the podcast is focusing on: &amp;ldquo;Polygenic S
       <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>/project/bittertastereceptors/</guid>
-      <description>Why is this interesting?     [under construction]</description>
+      <description>Why is this interesting? [under construction]</description>
     </item>
     
     <item>
@@ -202,8 +205,7 @@ This work provides three predictors for the relative accuracy of a polygenic ris
       <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
       
       <guid>/blog/how-lion-king/</guid>
-      <description>How &#34;The Lion King&#34; turned me into a scientistRecently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...
-  </description>
+      <description>How &#34;The Lion King&#34; turned me into a scientistRecently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...</description>
     </item>
     
     <item>
@@ -244,7 +246,7 @@ LDpred2 runs in R instead of in Python like its predecessor;</description>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>/talk/nypopgen2020/</guid>
-      <description>Abstract     Polygenic risk scores (PRS) summarize the results of GWAS into a single number that can predict quantitative phenotype or disease risk. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts. There are many possible reasons for this decrease; here we show that differences in allele frequencies, LD patterns, and phenotypic variance across ancestries are unlikely to be driving this pattern.</description>
+      <description>Abstract Polygenic risk scores (PRS) summarize the results of GWAS into a single number that can predict quantitative phenotype or disease risk. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts. There are many possible reasons for this decrease; here we show that differences in allele frequencies, LD patterns, and phenotypic variance across ancestries are unlikely to be driving this pattern.</description>
     </item>
     
     <item>
@@ -262,7 +264,7 @@ LDpred2 runs in R instead of in Python like its predecessor;</description>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
       
       <guid>/talk/ashg2019/</guid>
-      <description>Abstract |     Polygenic risk scores (PRS) can be used to summarize the results of genome-wide association studies (GWAS) into a single number representing the risk of disease. For some traits (for example, cardiovascular disease, breast cancer) PRS allows us to identify individuals with clinically actionable levels of risk in the tails of the PRS distribution. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts.</description>
+      <description>Abstract | Polygenic risk scores (PRS) can be used to summarize the results of genome-wide association studies (GWAS) into a single number representing the risk of disease. For some traits (for example, cardiovascular disease, breast cancer) PRS allows us to identify individuals with clinically actionable levels of risk in the tails of the PRS distribution. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts.</description>
     </item>
     
     <item>
@@ -271,7 +273,7 @@ LDpred2 runs in R instead of in Python like its predecessor;</description>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
       
       <guid>/talk/ashg2018/</guid>
-      <description>Abstract |     The vast majority of genome-wide association studies (GWAS) are performed in cohorts of European ancestry. Systematic differences in polygenic risk scores (PRS) between European and non-European ancestry populations are believed to be largely spurious. However, it is not clear whether they are completely inaccurate nor how much individual-level predictive power is lost by applying PRS based on European-ancestry GWAS to non-European ancestry populations. Finally, a quantitative understanding of the biological or statistical basis for the poor performance of PRS in non-European-ancestry populations is lacking.</description>
+      <description>Abstract | The vast majority of genome-wide association studies (GWAS) are performed in cohorts of European ancestry. Systematic differences in polygenic risk scores (PRS) between European and non-European ancestry populations are believed to be largely spurious. However, it is not clear whether they are completely inaccurate nor how much individual-level predictive power is lost by applying PRS based on European-ancestry GWAS to non-European ancestry populations. Finally, a quantitative understanding of the biological or statistical basis for the poor performance of PRS in non-European-ancestry populations is lacking.</description>
     </item>
     
     <item>
@@ -362,7 +364,7 @@ LDpred2 runs in R instead of in Python like its predecessor;</description>
       
       <guid>/teaching/b110/</guid>
       <description> syllabus (fall 2021)
- youtube playlist (fall 2021)  </description>
+youtube playlist (fall 2021) </description>
     </item>
     
     <item>
@@ -395,7 +397,7 @@ Biology Major, Data Science Minor
 Hometown: Jinhua, China
 Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
 In the lab: joined us for the summer research program 2022
- Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates     Taste is a sense that allows the perception and distinction of different flavors via specialized cells in the tongue.</description>
+Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Taste is a sense that allows the perception and distinction of different flavors via specialized cells in the tongue.</description>
     </item>
     
     <item>
@@ -404,8 +406,7 @@ In the lab: joined us for the summer research program 2022
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.
-  </description>
+      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
     </item>
     
   </channel>

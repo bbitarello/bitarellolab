@@ -5,7 +5,7 @@ subtitle: "Pronouns: she/her/hers - Biology Major, Data Science Minor ('24)"
 
 excerpt: "Pronouns: she/her/hers - Biology Major, Data Science Minor ('24)"
 
-date: 05/30/2022
+date: 2022-05-30
   
 # layout options: single or single-sidebar
 layout: single-sidebar
