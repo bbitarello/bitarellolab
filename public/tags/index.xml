@@ -611,15 +611,6 @@
     </item>
     
     <item>
-      <title>adaptation</title>
-      <link>/tags/adaptation/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/adaptation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>NCD</title>
       <link>/tags/ncd/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -697,6 +688,15 @@
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
       <guid>/tags/1000-genomes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>adaptation</title>
+      <link>/tags/adaptation/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/adaptation/</guid>
       <description></description>
     </item>
     

@@ -27,10 +27,15 @@ abstract: "Identifying genetic determinants of reproductive success may highligh
 
 link:  https://doi.org/10.1038/s41562-023-01528-6
 
+
 show_button_links: true
 links:
 - icon: doi
   icon_pack: ai
   name: Publication
   url:  https://doi.org/10.1038/s41562-023-01528-6
+- icon: doi
+  icon_pack: ai
+  name: Preprint
+  url: https://www.biorxiv.org/content/10.1101/2020.05.19.104455v1.abstract
 ---
