@@ -1,11 +1,11 @@
 ---
-title: "Kyra Booth"
-date: []
-slug: []
+title: "Kyra Kovačić"
+
 subtitle:"Pronouns: any - Biochemistry Major, Russian Minor ('22)"
+
 excerpt: "Pronouns: any - Biochemistry Major, Russian Minor ('22)"
 
-weight: 1
+date: 2021-09-01
 
 # layout options: single or single-sidebar
 layout: single-sidebar

@@ -6,11 +6,26 @@
     <description>Recent content in genomics on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 May 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Clementine Chen</title>
+      <link>/people/clementine/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/people/clementine/</guid>
+      <description>Pronouns: she/her/hers
+Bryn Mawr College Class of 2024
+Biology Major, Data Science Minor
+Hometown: Jinhua, China
+Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
+In the lab: joined us for the summer research program 2022
+Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Taste is a sense that allows the perception and distinction of different flavors via specialized cells in the tongue.</description>
+    </item>
+    
     <item>
       <title>Gillyoung Koh</title>
       <link>/people/gillyoung/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/people/gillyoung/</guid>
       <description>Pronouns: she/her/hers
@@ -20,16 +35,6 @@ From Broomall, PA
 Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
 In the lab: joined us for the summer research program 2022
 Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates T2R or TAS2R are Type II taste receptors that are G protein-coupled receptors.</description>
-    </item>
-    
-    <item>
-      <title>Kyra Booth</title>
-      <link>/people/kyra/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/kyra/</guid>
-      <description> In the lab: September 2021-May 2022 - the first of their kind!
-Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; </description>
     </item>
     
     <item>
@@ -51,6 +56,16 @@ Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution
     </item>
     
     <item>
+      <title>Kyra Kovačić</title>
+      <link>/people/kyra/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/people/kyra/</guid>
+      <description> In the lab: September 2021-May 2022 - the first of their kind!
+Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; </description>
+    </item>
+    
+    <item>
       <title>A genomic perspective on HLA evolution</title>
       <link>/publication/2017-genomic-perspective-on-hla/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
@@ -66,21 +81,6 @@ Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution
       
       <guid>/teaching/b216/</guid>
       <description>Genomics is a young and fast-evolving field of science that lies at the intersection of genetics, computer science, and biotechnology. We will examine the types of biological questions that can be answered using large biological data sets and complete genome sequences and the techniques and technologies that make such studies possible. Our primary focus will be on animal genomes and, in particular, human genomes, with special attention to evolutionary aspects of genomic data analysis.</description>
-    </item>
-    
-    <item>
-      <title>Clementine Chen</title>
-      <link>/people/clementine/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/people/clementine/</guid>
-      <description>Pronouns: she/her/hers
-Bryn Mawr College Class of 2024
-Biology Major, Data Science Minor
-Hometown: Jinhua, China
-Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
-In the lab: joined us for the summer research program 2022
-Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Taste is a sense that allows the perception and distinction of different flavors via specialized cells in the tongue.</description>
     </item>
     
   </channel>

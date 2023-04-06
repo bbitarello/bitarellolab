@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GWAS on Bárbara Bitarello</title>
+    <link>/tags/gwas/</link>
+    <description>Recent content in GWAS on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/gwas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus.</title>
+      <link>/publication/fads_2023/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/fads_2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shriya Shivakumar</title>
+      <link>/people/shriya/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/shriya/</guid>
+      <description>Fun Fact: I enjoy cooking, baking, eating extremely spicy food, reading and watching rom-coms. I also love Thai food and the chameleon, Pascal, from Tangled.
+In the lab: joined us 2022 in a dual mentorship program with Chris Thom at CHOP.</description>
+    </item>
+    
+  </channel>
+</rss>

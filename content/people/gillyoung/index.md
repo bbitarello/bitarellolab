@@ -1,11 +1,11 @@
 ---
 title: "Gillyoung Koh"
 
+subtitle: "Pronouns: she/her/hers - Biochemistry and Molecular Biology Major ('24)"
+
 excerpt: "Pronouns: she/her/hers - Biochemistry and Molecular Biology Major ('24)"
 
-date: 05/30/2022
-slug: []
-weight: 1
+date: 2022-05-30
 
 # layout options: single or single-sidebar
 layout: single-sidebar
