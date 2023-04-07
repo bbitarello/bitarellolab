@@ -26,6 +26,15 @@
     </item>
     
     <item>
+      <title>genetic ancestry</title>
+      <link>/tags/genetic-ancestry/</link>
+      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genetic-ancestry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>genotype</title>
       <link>/tags/genotype/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
@@ -71,15 +80,6 @@
     </item>
     
     <item>
-      <title>method development</title>
-      <link>/tags/method-development/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/method-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>morphological evolution</title>
       <link>/tags/morphological-evolution/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
@@ -89,7 +89,7 @@
     </item>
     
     <item>
-      <title>Natural Selection</title>
+      <title>natural selection</title>
       <link>/tags/natural-selection/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
@@ -112,15 +112,6 @@
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
       <guid>/tags/phylogenetics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>polygenic risk scores</title>
-      <link>/tags/polygenic-risk-scores/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/polygenic-risk-scores/</guid>
       <description></description>
     </item>
     
@@ -161,11 +152,11 @@
     </item>
     
     <item>
-      <title>research projects</title>
-      <link>/tags/research-projects/</link>
+      <title>PRS</title>
+      <link>/tags/prs/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/research-projects/</guid>
+      <guid>/tags/prs/</guid>
       <description></description>
     </item>
     
@@ -233,20 +224,20 @@
     </item>
     
     <item>
+      <title>polygenic risk scores</title>
+      <link>/tags/polygenic-risk-scores/</link>
+      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/polygenic-risk-scores/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>precision genomics</title>
       <link>/tags/precision-genomics/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       
       <guid>/tags/precision-genomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PRS</title>
-      <link>/tags/prs/</link>
-      <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/prs/</guid>
       <description></description>
     </item>
     
@@ -323,20 +314,20 @@
     </item>
     
     <item>
+      <title>research projects</title>
+      <link>/tags/research-projects/</link>
+      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/research-projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>skeletal stature</title>
       <link>/tags/skeletal-stature/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
       
       <guid>/tags/skeletal-stature/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ancestry</title>
-      <link>/tags/ancestry/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ancestry/</guid>
       <description></description>
     </item>
     
@@ -638,34 +629,25 @@
     </item>
     
     <item>
-      <title>Evolution</title>
-      <link>/tags/evolution/</link>
+      <title>HLA</title>
+      <link>/tags/hla/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/evolution/</guid>
+      <guid>/tags/hla/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>HLA (human leukocyte antigen)</title>
-      <link>/tags/hla-human-leukocyte-antigen/</link>
+      <title>MHC</title>
+      <link>/tags/mhc/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hla-human-leukocyte-antigen/</guid>
+      <guid>/tags/mhc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>MHC (major histocompatibility complex)</title>
-      <link>/tags/mhc-major-histocompatibility-complex/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mhc-major-histocompatibility-complex/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Allelic lineages</title>
+      <title>allelic lineages</title>
       <link>/tags/allelic-lineages/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
@@ -674,11 +656,29 @@
     </item>
     
     <item>
-      <title>Antigen recognition site</title>
+      <title>antigen recognition site</title>
       <link>/tags/antigen-recognition-site/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       
       <guid>/tags/antigen-recognition-site/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>divergent allele advantage</title>
+      <link>/tags/divergent-allele-advantage/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/divergent-allele-advantage/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immunogenetics</title>
+      <link>/tags/immunogenetics/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/immunogenetics/</guid>
       <description></description>
     </item>
     
@@ -701,16 +701,25 @@
     </item>
     
     <item>
-      <title>HLA</title>
-      <link>/tags/hla/</link>
+      <title>comparative genomics</title>
+      <link>/tags/comparative-genomics/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hla/</guid>
+      <guid>/tags/comparative-genomics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Human Populations</title>
+      <title>genome assembly</title>
+      <link>/tags/genome-assembly/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/genome-assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>human populations</title>
       <link>/tags/human-populations/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -719,7 +728,7 @@
     </item>
     
     <item>
-      <title>Mapping bias</title>
+      <title>mapping bias</title>
       <link>/tags/mapping-bias/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       
@@ -742,6 +751,15 @@
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
       <guid>/tags/dna-antigo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>português</title>
+      <link>/tags/portugu%C3%AAs/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/portugu%C3%AAs/</guid>
       <description></description>
     </item>
     
@@ -773,20 +791,20 @@
     </item>
     
     <item>
-      <title>gene genealogy</title>
-      <link>/tags/gene-genealogy/</link>
+      <title>genealogia gênica</title>
+      <link>/tags/genealogia-g%C3%AAnica/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>/tags/gene-genealogy/</guid>
+      <guid>/tags/genealogia-g%C3%AAnica/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>genographic</title>
-      <link>/tags/genographic/</link>
+      <title>genográfico</title>
+      <link>/tags/genogr%C3%A1fico/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>/tags/genographic/</guid>
+      <guid>/tags/genogr%C3%A1fico/</guid>
       <description></description>
     </item>
     

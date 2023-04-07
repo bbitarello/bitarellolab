@@ -17,7 +17,6 @@ links:
 
 tags: 
 - bitter taste receptors
-- research projects
 - genomics
 - molecular evolution
 - dN/dS
@@ -26,6 +25,7 @@ tags:
 
 categories: 
 - research students
+- research projects
 
 featured: true
 draft: false

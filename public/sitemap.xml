@@ -41,6 +41,9 @@
     <loc>/categories/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/genetic-ancestry/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/fads_2023/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -65,9 +68,6 @@
     <loc>/tags/mendelian-randomization/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/method-development/</loc>
-    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/morphological-evolution/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -83,9 +83,6 @@
     <loc>/tags/phylogenetics/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/polygenic-risk-scores/</loc>
-    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/polygenic-traits/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -98,10 +95,13 @@
     <loc>/tags/primates/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/prs/</loc>
+    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/research-projects/</loc>
+    <loc>/categories/research-projects/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/research-students/</loc>
@@ -152,10 +152,10 @@
     <loc>/tags/human/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/precision-genomics/</loc>
+    <loc>/tags/polygenic-risk-scores/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/prs/</loc>
+    <loc>/tags/precision-genomics/</loc>
     <lastmod>2022-05-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/race/</loc>
@@ -209,7 +209,7 @@
     <loc>/project/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/research-projects/</loc>
+    <loc>/tags/research-projects/</loc>
     <lastmod>2021-12-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/cox_2021/</loc>
@@ -229,9 +229,6 @@
   </url><url>
     <loc>/collection/</loc>
     <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/ancestry/</loc>
-    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/c&#43;t/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
@@ -377,13 +374,10 @@
     <loc>/publication/2017-genomic-perspective-on-hla/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/evolution/</loc>
+    <loc>/tags/hla/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hla-human-leukocyte-antigen/</loc>
-    <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/mhc-major-histocompatibility-complex/</loc>
+    <loc>/tags/mhc/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/allelic-lineages/</loc>
@@ -392,7 +386,13 @@
     <loc>/tags/antigen-recognition-site/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/divergent-allele-advantage/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/publication/2016-heterogeneity-of-dnds-ratios/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/immunogenetics/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/1000-genomes/</loc>
@@ -401,7 +401,10 @@
     <loc>/tags/adaptation/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hla/</loc>
+    <loc>/tags/comparative-genomics/</loc>
+    <lastmod>2015-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/genome-assembly/</loc>
     <lastmod>2015-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2015-hla-supertype-variations-across-populations/</loc>
@@ -428,6 +431,12 @@
     <loc>/publication/2011-intercruzmento-de-humanos/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/tags/portugu%C3%AAs/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/scientific-outreach/</loc>
+    <lastmod>2011-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/sequenciamento/</loc>
     <lastmod>2011-01-01T00:00:00+00:00</lastmod>
   </url><url>
@@ -440,10 +449,10 @@
     <loc>/tags/dna/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/gene-genealogy/</loc>
+    <loc>/tags/genealogia-g%C3%AAnica/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/genographic/</loc>
+    <loc>/tags/genogr%C3%A1fico/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/livestock-pest/</loc>
@@ -459,6 +468,9 @@
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/2009-projeto-genografico/</loc>
+    <lastmod>2009-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/science-outreach/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/about/</loc>

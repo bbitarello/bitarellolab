@@ -9,10 +9,11 @@ tags:
     - polygenic risk scores
     - height
     - PRS
-    - ancestry
+    - genetic ancestry
     - prediction
     - C+T
     - ldpred
+    - admixture
 doi: ''
 publishDate: '2020-11-02T10:00:00-00:00'
 publication: 'G3: Genes, Genomes, Genetics'

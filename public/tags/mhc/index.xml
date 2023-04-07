@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MHC on Bárbara Bitarello</title>
+    <link>/tags/mhc/</link>
+    <description>Recent content in MHC on Bárbara Bitarello</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mhc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A genomic perspective on HLA evolution</title>
+      <link>/publication/2017-genomic-perspective-on-hla/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/2017-genomic-perspective-on-hla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

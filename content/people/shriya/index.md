@@ -16,19 +16,21 @@ links:
   url: 
 
 tags: 
-- research projects
 - population genomics
 - statistical methods
 - mendelian randomization
 - GWAS
-- polygenic risk scores
+- PRS
 - admixture
+- genetic ancestry
 
 categories: 
 - research students
+- research projects
 
 featured: true
 draft: false 
+
 ---
 
 <img src="featured.jpg" alt="" width="30%" height="20%"/>

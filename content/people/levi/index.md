@@ -16,16 +16,15 @@ links:
   url: 
 
 tags: 
-- research projects
 - morphological evolution
 - primates
 - hominins
 - statistical methods
 - phylogenetics
-- method development
 
 categories: 
 - research students
+- research projects
 
 featured: true
 draft: false 

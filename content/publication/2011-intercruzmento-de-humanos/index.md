@@ -4,8 +4,11 @@ date: 2011-01-01
 authors: 'Bárbara Bitarello, Diogo Meyer'
 abstract: ''
 featured: false
+categories:
+  - Scientific Outreach
 publication: 'Revista da Biologia'
-tags: ['DNA antigo', 'sequenciamento']
+tags: ['DNA antigo', 'sequenciamento', 'português']
+
 link: 'https://www.revistas.usp.br/revbiologia/article/view/108622/106943'
 show_button_links: true
 links:

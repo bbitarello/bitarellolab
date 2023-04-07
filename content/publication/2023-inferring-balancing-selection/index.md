@@ -13,7 +13,7 @@ tags:
   - genotype
   - human variation
   - phenotype
-  - population genetics
+  - population genomics
   - natural selection
   - balancing selection
   - review
