@@ -6,3 +6,6 @@
 content/*.DS_Store
 data/*.DS_Store
 */.DS_Store
+.Rdata
+.httr-oauth
+.quarto
