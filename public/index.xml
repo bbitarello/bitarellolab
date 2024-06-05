@@ -6,7 +6,7 @@
     <description>Recent content in Bitarello Lab on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
       <link>/collection/day02/01-netlify/</link>
@@ -87,6 +87,124 @@ My content section is: collection My layout is: single-series part 2! does this 
     </item>
     
     <item>
+      <title>Balancing selection</title>
+      <link>/project/balancingselection/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/project/balancingselection/</guid>
+      <description>Balancing Selection is an umbrella term Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
+    </item>
+    
+    <item>
+      <title>Daphne Hansell</title>
+      <link>/people/daphne/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/daphne/</guid>
+      <description>Pronouns: she/her/hers
+Fun Fact: I love to bake, listen to podcasts and feed stray cats.
+In the Lab: Joined summer 2023 to work on an R package to calculate balancing selection. My interests are all things R! Also worked on developing an R package for the B215: Biostatistics with R course. Stayed until graduating (Spring 2024).
+balselr - Balancing Selection Tests in R Broader project: Balancing selection: mechanisms, timescales, and signatures.</description>
+    </item>
+    
+    <item>
+      <title>Evolution of bitter taste receptors in primates</title>
+      <link>/project/bittertastereceptors/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/project/bittertastereceptors/</guid>
+      <description>Why is this interesting? [under construction]</description>
+    </item>
+    
+    <item>
+      <title>Kira Morozova</title>
+      <link>/people/kiramorozova/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/kiramorozova/</guid>
+      <description> Hometown: Moscow, Russia
+Fun fact: I take pictures with a lot of traffic cones, because they’re orange like my hair:)
+Favorite book: The Gray House, by Maryam Petrosyan
+In the lab: joined us for the summer research program 2023
+Broader project: Balancing selection: mechanisms, timescales, and signatures. </description>
+    </item>
+    
+    <item>
+      <title>Kuankuan Hu</title>
+      <link>/people/kuankuanhu/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/kuankuanhu/</guid>
+      <description> Pronouns: she/her/hers
+Hometown: Beijing, China
+Fun Fact: My favorite cartoon character is Snoopy
+In the lab: joined us in Spring 2024
+Broader project: Balancing selection: mechanisms, timescales, and signatures. </description>
+    </item>
+    
+    <item>
+      <title>Nicole Cavalieri</title>
+      <link>/people/nicolecavalieri/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/nicolecavalieri/</guid>
+      <description>Pronouns: she/her/hers
+Hometown: Staten Island, New York
+Fun Fact: I have the same birthday as Mick Jagger
+In the lab: Worked on R teaching materials with the BMC Digital Scholarship Grant in summer 2023</description>
+    </item>
+    
+    <item>
+      <title>Clementine Chen</title>
+      <link>/people/clementine/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/clementine/</guid>
+      <description>Pronouns: she/her/hers
+Hometown: Jinhua, China
+Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
+In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
+Update: starting a Masters program in Fall 2024 in Computational Biology and Quantitative Genetics @ Harvard T.H. Chan school of Public Health.
+Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+    </item>
+    
+    <item>
+      <title>Gillyoung Koh</title>
+      <link>/people/gillyoung/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gillyoung/</guid>
+      <description>Pronouns: she/her/hers
+From Broomall, PA
+Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
+In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
+Update: taking a year off before applying to medical schools.
+Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+    </item>
+    
+    <item>
+      <title>Levi Raskin</title>
+      <link>/people/levi/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/levi/</guid>
+      <description>Fun Fact: My favorite Disney-adjacent character is the Iron Giant.
+From Oak Park, Illinois
+In the lab: Joined us in Spring 2023, working on phylogenetic signal, phylogenetic methods, and hominin life history evolution. Co-mentured by Maja Šešelj.
+Update: starting a PhD in Fall 2024 at UC Berkeley’s Integrative Biology program with (Dr. John Huelsenbeck)[https://vcresearch.berkeley.edu/faculty/john-huelsenbeck].</description>
+    </item>
+    
+    <item>
+      <title>Shriya Shivakumar</title>
+      <link>/people/shriya/</link>
+      <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/people/shriya/</guid>
+      <description>Fun Fact: I enjoy cooking, baking, eating extremely spicy food, reading and watching rom-coms. I also love Thai food and the chameleon, Pascal, from Tangled.
+In the lab: joined us 2022 in a dual mentorship program with Chris Thom at CHOP.</description>
+    </item>
+    
+    <item>
       <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus.</title>
       <link>/publication/fads_2023/</link>
       <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
@@ -102,60 +220,6 @@ My content section is: collection My layout is: single-series part 2! does this 
       
       <guid>/publication/bls_2023/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Levi Raskin</title>
-      <link>/people/levi/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/people/levi/</guid>
-      <description>Fun Fact: My favorite Disney-adjacent character is the Iron Giant.
-Haverford College Class of 2024
-Anthropology and Biology Major
-From Oak Park, Illinois
-Fun Fact: My favorite Disney-adjacent character is the Iron Giant.
-In the lab: Spring 2023-ongoing, working on phylogenetic signal, phylogenetic methods, and hominin life history evolution. Co-mentured by Maja Šešelj.</description>
-    </item>
-    
-    <item>
-      <title>Shriya Shivakumar</title>
-      <link>/people/shriya/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/people/shriya/</guid>
-      <description>Fun Fact: I enjoy cooking, baking, eating extremely spicy food, reading and watching rom-coms. I also love Thai food and the chameleon, Pascal, from Tangled.
-In the lab: joined us 2022 in a dual mentorship program with Chris Thom at CHOP.</description>
-    </item>
-    
-    <item>
-      <title>Clementine Chen</title>
-      <link>/people/clementine/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/people/clementine/</guid>
-      <description>Pronouns: she/her/hers
-Bryn Mawr College Class of 2024
-Biology Major, Data Science Minor
-Hometown: Jinhua, China
-Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
-In the lab: joined us for the summer research program 2022
-Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Taste is a sense that allows the perception and distinction of different flavors via specialized cells in the tongue.</description>
-    </item>
-    
-    <item>
-      <title>Gillyoung Koh</title>
-      <link>/people/gillyoung/</link>
-      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/people/gillyoung/</guid>
-      <description>Pronouns: she/her/hers
-Bryn Mawr College Class of 2024
-Biochemistry and Molecular Biology Major
-From Broomall, PA
-Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
-In the lab: joined us for the summer research program 2022
-Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates T2R or TAS2R are Type II taste receptors that are G protein-coupled receptors.</description>
     </item>
     
     <item>
@@ -190,24 +254,6 @@ Link to the publication which the podcast is focusing on: &amp;ldquo;Polygenic S
     </item>
     
     <item>
-      <title>Balancing selection and adaptive evolution</title>
-      <link>/project/balancingselection/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/project/balancingselection/</guid>
-      <description>Balancing Selection is an umbrella term Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
-    </item>
-    
-    <item>
-      <title>Evolution of bitter taste receptors in primates and other mammals</title>
-      <link>/project/bittertastereceptors/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/project/bittertastereceptors/</guid>
-      <description>Why is this interesting? [under construction]</description>
-    </item>
-    
-    <item>
       <title>Predicting skeletal stature using ancient DNA</title>
       <link>/publication/cox_2021/</link>
       <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
@@ -222,8 +268,8 @@ Link to the publication which the podcast is focusing on: &amp;ldquo;Polygenic S
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/people/kyra/</guid>
-      <description> In the lab: September 2021-May 2022 - the first of their kind!
-Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; </description>
+      <description>In the lab: September 2021-May 2022 - the first of their kind!
+Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
     </item>
     
     <item>

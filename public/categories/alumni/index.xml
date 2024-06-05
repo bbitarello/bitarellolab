@@ -6,15 +6,67 @@
     <description>Recent content in alumni on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daphne Hansell</title>
+      <link>/people/daphne/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/daphne/</guid>
+      <description>Pronouns: she/her/hers
+Fun Fact: I love to bake, listen to podcasts and feed stray cats.
+In the Lab: Joined summer 2023 to work on an R package to calculate balancing selection. My interests are all things R! Also worked on developing an R package for the B215: Biostatistics with R course. Stayed until graduating (Spring 2024).
+balselr - Balancing Selection Tests in R Broader project: Balancing selection: mechanisms, timescales, and signatures.</description>
+    </item>
+    
+    <item>
+      <title>Clementine Chen</title>
+      <link>/people/clementine/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/clementine/</guid>
+      <description>Pronouns: she/her/hers
+Hometown: Jinhua, China
+Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
+In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
+Update: starting a Masters program in Fall 2024 in Computational Biology and Quantitative Genetics @ Harvard T.H. Chan school of Public Health.
+Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+    </item>
+    
+    <item>
+      <title>Gillyoung Koh</title>
+      <link>/people/gillyoung/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/gillyoung/</guid>
+      <description>Pronouns: she/her/hers
+From Broomall, PA
+Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
+In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
+Update: taking a year off before applying to medical schools.
+Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+    </item>
+    
+    <item>
+      <title>Levi Raskin</title>
+      <link>/people/levi/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/levi/</guid>
+      <description>Fun Fact: My favorite Disney-adjacent character is the Iron Giant.
+From Oak Park, Illinois
+In the lab: Joined us in Spring 2023, working on phylogenetic signal, phylogenetic methods, and hominin life history evolution. Co-mentured by Maja Šešelj.
+Update: starting a PhD in Fall 2024 at UC Berkeley’s Integrative Biology program with (Dr. John Huelsenbeck)[https://vcresearch.berkeley.edu/faculty/john-huelsenbeck].</description>
+    </item>
+    
     <item>
       <title>Kyra Kovačić</title>
       <link>/people/kyra/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
       
       <guid>/people/kyra/</guid>
-      <description> In the lab: September 2021-May 2022 - the first of their kind!
-Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; </description>
+      <description>In the lab: September 2021-May 2022 - the first of their kind!
+Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
     </item>
     
   </channel>

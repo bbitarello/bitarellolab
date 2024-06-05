@@ -1,11 +1,11 @@
 ---
 title: "Gillyoung Koh"
 
-subtitle: "Pronouns: she/her/hers - Biochemistry and Molecular Biology Major ('24)"
+subtitle: "Biochemistry and Molecular Biology Major ('24)"
 
-excerpt: "Pronouns: she/her/hers - Biochemistry and Molecular Biology Major ('24)"
+excerpt: "Biochemistry and Molecular Biology Major ('24)"
 
-date: 2022-05-30
+date: "2024-05-31"
 
 # layout options: single or single-sidebar
 layout: single-sidebar
@@ -15,16 +15,9 @@ links:
   name: Github
   url: https://github.com/gykoh
 
-tags: 
-- bitter taste receptors
-- genomics
-- molecular evolution
-- dN/dS
-- hyphy
-- primates
 categories: 
-- research students
 - research projects
+- alumni
 
 featured: true
 draft: false 
@@ -34,18 +27,19 @@ draft: false
 
 Pronouns: she/her/hers 
 
-Bryn Mawr College Class of 2024 
-
-Biochemistry and Molecular Biology Major
-
 From Broomall, PA
 
 Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
 
-In the lab: joined us for the summer research program 2022
+In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
+
+Update: taking a year off before applying to medical schools.
 
 ----------------------------------------------------------------------
+
 ## Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates
+
+Broader project: [Evolution of bitter taste receptors in primates and other mammals](https://bitarellolab.netlify.app/project/bittertastereceptors/)/
 
 T2R or TAS2R are Type II taste receptors that are G protein-coupled receptors. When a bitter agonist binds to the receptor, the organism perceives the bitter taste. Bitter-tasting genes code for the proteins which are the bitter-tasting receptors. It is important to perceive bitterness to protect organisms from eating potentially harmful substances, such as cyanide. The receptor encoded from TAS2R14 is very promiscuous. It can bind to more than 150 known, diverse bitter agonists, roughly two-fold more than the second-highest number of known ligands a receptor encoded from a T2R gene can bind to. Possibly, TAS2R14 could have been subjected to long-term balancing selection. In the Bitarello lab, we are exploring whether there is evidence for long-term diversifying evolution in TAS2R14 in the primate lineage. If we can find evidence supporting this, is the long-term diversifying evolution targeting codons in TAS2R14 corresponding to portions of the receptor interacting with the bitter agonists? We hypothesize that this may be true given that certain vertebrate genes have great diversity and that major histocompatibility (MHC) complex genes show balancing selection in certain codons encoding for the binding of antigens. Finally, we will also test whether different subgroups of primates have experienced different selective pressures. 
 

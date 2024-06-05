@@ -2,7 +2,7 @@
 author: Bárbara Bitarello
 categories:
 - Research Projects
-date: "2021-12-15"
+date: "2024-06-05"
 draft: false
 excerpt: 
 layout: single
@@ -14,15 +14,12 @@ links:
   icon_pack: fab
   name: code
 subtitle: 
-tags:
+tags: 
 - bitter taste receptors
-- research projects
-- genomics
 - molecular evolution
 - dN/dS
-- hyphy
-
-title: Evolution of bitter taste receptors in primates and other mammals
+- primates
+title: Evolution of bitter taste receptors in primates
 ---
 
 ### Why is this interesting?

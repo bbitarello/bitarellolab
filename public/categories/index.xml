@@ -6,11 +6,20 @@
     <description>Recent content in Categories on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>alumni</title>
+      <link>/categories/alumni/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/alumni/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>research projects</title>
       <link>/categories/research-projects/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>/categories/research-projects/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>research students</title>
       <link>/categories/research-students/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>/categories/research-students/</guid>
       <description></description>
@@ -76,15 +85,6 @@
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>/categories/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>alumni</title>
-      <link>/categories/alumni/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/categories/alumni/</guid>
       <description></description>
     </item>
     

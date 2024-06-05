@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Population genetics on Bárbara Bitarello</title>
+    <title>population genetics on Bárbara Bitarello</title>
     <link>/tags/population-genetics/</link>
-    <description>Recent content in Population genetics on Bárbara Bitarello</description>
+    <description>Recent content in population genetics on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/population-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/population-genetics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Balancing selection</title>
+      <link>/project/balancingselection/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/project/balancingselection/</guid>
+      <description>Balancing Selection is an umbrella term Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
+    </item>
+    
+    <item>
+      <title>Daphne Hansell</title>
+      <link>/people/daphne/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/daphne/</guid>
+      <description>Pronouns: she/her/hers
+Fun Fact: I love to bake, listen to podcasts and feed stray cats.
+In the Lab: Joined summer 2023 to work on an R package to calculate balancing selection. My interests are all things R! Also worked on developing an R package for the B215: Biostatistics with R course. Stayed until graduating (Spring 2024).
+balselr - Balancing Selection Tests in R Broader project: Balancing selection: mechanisms, timescales, and signatures.</description>
+    </item>
+    
     <item>
       <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus.</title>
       <link>/publication/fads_2023/</link>

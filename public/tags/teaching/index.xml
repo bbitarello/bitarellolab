@@ -5,7 +5,20 @@
     <link>/tags/teaching/</link>
     <description>Recent content in teaching on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daphne Hansell</title>
+      <link>/people/daphne/</link>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/people/daphne/</guid>
+      <description>Pronouns: she/her/hers
+Fun Fact: I love to bake, listen to podcasts and feed stray cats.
+In the Lab: Joined summer 2023 to work on an R package to calculate balancing selection. My interests are all things R! Also worked on developing an R package for the B215: Biostatistics with R course. Stayed until graduating (Spring 2024).
+balselr - Balancing Selection Tests in R Broader project: Balancing selection: mechanisms, timescales, and signatures.</description>
+    </item>
+    
     <item>
       <title>BIOL B110: Biological Explorations</title>
       <link>/teaching/b110/</link>

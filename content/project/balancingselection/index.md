@@ -2,15 +2,16 @@
 author: Bárbara Bitarello
 categories:
 - Research Projects
-date: "2021-12-15"
+date: "2024-06-05"
 draft: false
 excerpt: Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations.
 layout: single
-subtitle: Humans and other primates
+subtitle: Mechanisms, timescales, and signatures
 tags:
 - Research Projects
 - Balancing Selection
-title: Balancing selection and adaptive evolution
+- Population Genetics
+title: "Balancing selection"
 ---
 
 

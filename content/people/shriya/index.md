@@ -1,11 +1,11 @@
 ---
 title: "Shriya Shivakumar"
 
-subtitle: "Pronouns: she/her - Biology Major and Data Science Minor ('25)"
+subtitle: "Biology Major and Data Science Minor ('25)"
 
-excerpt: "Pronouns: she/her - Biology Major and Data Science Minor ('25)"
+excerpt: "Biology Major and Data Science Minor ('25)"
 
-date: 2023-04-06
+date: "2023-06-05"
 
 # layout options: single or single-sidebar
 layout: single-sidebar
@@ -13,16 +13,8 @@ links:
 - icon: github
   icon_pack: fab
   name: Github
-  url: 
+  url: https://github.com/sshivakumar31
 
-tags: 
-- population genomics
-- statistical methods
-- mendelian randomization
-- GWAS
-- PRS
-- admixture
-- genetic ancestry
 
 categories: 
 - research students
@@ -33,7 +25,7 @@ draft: false
 
 ---
 
-<img src="featured.jpg" alt="" width="30%" height="20%"/>
+<img src="featured.png" alt="" width="30%" height="20%"/>
 
 Fun Fact: I enjoy cooking, baking, eating extremely spicy food, reading and watching rom-coms. I also love Thai food and the chameleon, Pascal, from Tangled.
 

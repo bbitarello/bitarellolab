@@ -192,3 +192,8 @@ enableEmoji = true
     disable = false
     privacyEnhanced = true
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

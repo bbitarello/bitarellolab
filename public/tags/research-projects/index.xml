@@ -1,38 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>research projects on Bárbara Bitarello</title>
+    <title>Research Projects on Bárbara Bitarello</title>
     <link>/tags/research-projects/</link>
-    <description>Recent content in research projects on Bárbara Bitarello</description>
+    <description>Recent content in Research Projects on Bárbara Bitarello</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/research-projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/research-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Balancing selection and adaptive evolution</title>
+      <title>Balancing selection</title>
       <link>/project/balancingselection/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       
       <guid>/project/balancingselection/</guid>
       <description>Balancing Selection is an umbrella term Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
-    </item>
-    
-    <item>
-      <title>Evolution of bitter taste receptors in primates and other mammals</title>
-      <link>/project/bittertastereceptors/</link>
-      <pubDate>Wed, 15 Dec 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/project/bittertastereceptors/</guid>
-      <description>Why is this interesting? [under construction]</description>
-    </item>
-    
-    <item>
-      <title>Kyra Kovačić</title>
-      <link>/people/kyra/</link>
-      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/people/kyra/</guid>
-      <description> In the lab: September 2021-May 2022 - the first of their kind!
-Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; </description>
     </item>
     
   </channel>
