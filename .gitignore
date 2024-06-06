@@ -9,3 +9,4 @@ data/*.DS_Store
 .Rdata
 .httr-oauth
 .quarto
+.DS_Store
