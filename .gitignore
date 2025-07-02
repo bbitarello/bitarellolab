@@ -2,13 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
-*.DS_Store
-content/*.DS_Store
-data/*.DS_Store
-*/.DS_Store
-.Rdata
-.httr-oauth
-.quarto
 .DS_Store
 Thumbs.db
 .hugo_build.lock
@@ -16,4 +9,4 @@ Thumbs.db
 #because i use netlify to build site:
 
 /public/
-/resources/
+resources/

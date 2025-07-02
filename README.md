@@ -14,12 +14,15 @@ blogdown::serve_site()
 blogdown::stop_server()
 blogdown::check_site()
 blogdown::build_site()
+#other
+blogdown::config_netlify()
 
 
 ````
 
 https://hugo-apero-docs.netlify.app/start/setup/
 
+https://hugo-apero-docs.netlify.app/start/deploy/#push-to-github
 
 https://www.apreshill.com/blog/2020-12-new-year-new-blogdown/
 
