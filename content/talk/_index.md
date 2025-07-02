@@ -4,21 +4,18 @@ sidebar:
   show_comments: false
   show_post_date: true
   show_post_time: false
-  sidebar:
-    show_sidebar_adunit: false
-    text_link_label: View recent talks, interviews, podcasts, etc
-    text_link_url: /talk/
+  show_sidebar_adunit: false
+  text_link_label: View recent talks, interviews, podcasts, etc
+  text_link_url: /talk/index.xml
+  title: Research talks and outreach
+  description: "This is a list of talks, workshops, interviews, podcasts, etc. \n"
+
 description: |
   Talks, workshops, interviews, podcasts, etc.
 layout: list-sidebar
 show_post_date: true
 show_post_thumbnail: true
 show_button_links: true
-sidebar:
-  description: "This is a list of talks, workshops, interviews, podcasts, etc. \n"
-  show_sidebar_adunit: false
-  text_link_url: /talk/index.xml
-  title: Research talks and outreach
 thumbnail_left: true
 ---
 
