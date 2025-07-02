@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DNA antigo on Bárbara Bitarello</title>
+    <title>DNA Antigo on Bárbara Bitarello</title>
     <link>/tags/dna-antigo/</link>
-    <description>Recent content in DNA antigo on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in DNA Antigo on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate><atom:link href="/tags/dna-antigo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/dna-antigo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intercruzmento de humanos modernos e neandertais: novas perspectivas a luz da genética</title>
       <link>/publication/2011-intercruzmento-de-humanos/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2011-intercruzmento-de-humanos/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

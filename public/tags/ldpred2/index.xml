@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ldpred2 on Bárbara Bitarello</title>
+    <title>Ldpred2 on Bárbara Bitarello</title>
     <link>/tags/ldpred2/</link>
-    <description>Recent content in ldpred2 on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Ldpred2 on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ldpred2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/ldpred2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>LDpred2: Better, Faster, Stronger</title>
       <link>/blog/ldpred2/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>/blog/ldpred2/</guid>
-      <description>Today we discussed the new version of LDpred: LDpred2 (preprint here).
-The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication. Rather, this seems to be a ‘Bioinformatics’ style preprint that goes straight to the novelties:
-LDpred2 runs in R instead of in Python like its predecessor;</description>
+      <description>&lt;p&gt;Today we discussed the new version of LDpred: LDpred2 (preprint &#xA;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the &#xA;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596916/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original publication&lt;/a&gt;. Rather, this seems to be a ‘Bioinformatics’ style preprint that goes straight to the novelties:&lt;/p&gt;&#xA;&lt;p&gt;LDpred2 runs in R instead of in Python like its predecessor;&lt;/p&gt;&#xA;&lt;p&gt;LDpred2 has four implementations (LDpred2-inf, LDpred2, LDpred2-sparse, LDpred2-auto), compared to two from its predecessor (LDpred-inf, LDpred);&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

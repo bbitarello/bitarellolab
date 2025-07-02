@@ -1,51 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>dN/dS on Bárbara Bitarello</title>
+    <title>DN/DS on Bárbara Bitarello</title>
     <link>/tags/dn/ds/</link>
-    <description>Recent content in dN/dS on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/dn/ds/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content in DN/DS on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/dn/ds/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evolution of bitter taste receptors in primates</title>
       <link>/project/bittertastereceptors/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/project/bittertastereceptors/</guid>
-      <description>Why is this interesting? [under construction]</description>
+      <description>&lt;h3 id=&#34;why-is-this-interesting&#34;&gt;Why is this interesting?&#xA;  &lt;a href=&#34;#why-is-this-interesting&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;[under construction]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Clementine Chen</title>
       <link>/people/clementine/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/clementine/</guid>
-      <description>Pronouns: she/her/hers
-Hometown: Jinhua, China
-Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
-In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
-Update: starting a Masters program in Fall 2024 in Computational Biology and Quantitative Genetics @ Harvard T.H. Chan school of Public Health.
-Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Hometown: Jinhua, China&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).&lt;/p&gt;&#xA;&lt;p&gt;Update: starting a Masters program in Fall 2024 in Computational Biology and Quantitative Genetics @ &#xA;&lt;a href=&#34;https://www.hsph.harvard.edu/sm-computational-biology/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard T.H. Chan school of Public Health&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;quantifying-the-evidence-for-adaptive-evolution-of-the-tas2r38-bitter-receptor-gene-in-primates&#34;&gt;Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates&#xA;  &lt;a href=&#34;#quantifying-the-evidence-for-adaptive-evolution-of-the-tas2r38-bitter-receptor-gene-in-primates&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/bittertastereceptors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution of bitter taste receptors in primates and other mammals&lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Heterogeneity of dN/dS Ratios at the Classical HLA Class I Genes over Divergence Time and Across the Allelic Phylogeny</title>
       <link>/publication/2016-heterogeneity-of-dnds-ratios/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2016-heterogeneity-of-dnds-ratios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kiwi genome provides insights into evolution of a nocturnal lifestyle</title>
       <link>/publication/2015-kiwi-genome/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2015-kiwi-genome/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

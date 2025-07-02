@@ -4,134 +4,107 @@
     <title>Categories on Bárbara Bitarello</title>
     <link>/categories/</link>
     <description>Recent content in Categories on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>alumni</title>
+      <title>Alumni</title>
       <link>/categories/alumni/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/categories/alumni/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>research projects</title>
+      <title>Research Projects</title>
       <link>/categories/research-projects/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/categories/research-projects/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>research students</title>
+      <title>Research Students</title>
       <link>/categories/research-students/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/categories/research-students/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>Scientific publications</title>
+      <title>Scientific Publications</title>
       <link>/categories/scientific-publications/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 02 Mar 2023 10:00:00 +0000</pubDate>
       <guid>/categories/scientific-publications/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>diversity</title>
+      <title>Diversity</title>
       <link>/categories/diversity/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>/categories/diversity/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>symposium</title>
+      <title>Symposium</title>
       <link>/categories/symposium/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>/categories/symposium/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>talks</title>
+      <title>Talks</title>
       <link>/categories/talks/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>/categories/talks/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>interview</title>
+      <title>Interview</title>
       <link>/categories/interview/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>/categories/interview/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>outreach</title>
+      <title>Outreach</title>
       <link>/categories/outreach/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>/categories/outreach/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>/categories/blog/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>/categories/blog/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>medium</title>
+      <title>Medium</title>
       <link>/categories/medium/</link>
       <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
-      
       <guid>/categories/medium/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>posts</title>
+      <title>Posts</title>
       <link>/categories/posts/</link>
       <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
-      
       <guid>/categories/posts/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Scientific Outreach</title>
       <link>/categories/scientific-outreach/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>/categories/scientific-outreach/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Science Outreach</title>
       <link>/categories/science-outreach/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>/categories/science-outreach/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

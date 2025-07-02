@@ -2,40 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/collection/day02/01-netlify/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/day01/01-github/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/prework/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/day01/</loc>
-    <lastmod>2021-01-25T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/day01/02-postcards/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/day02/02-blogdown/</loc>
-    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/day02/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/day01/03-distill/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/collection/day02/03-blogdown/</loc>
-    <lastmod>2021-01-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/alumni/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/balancing-selection/</loc>
+    <loc>/project/balancingselection/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/balancingselection/</loc>
+    <loc>/tags/balancing-selection/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
@@ -48,6 +21,9 @@
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/people/daphne/</loc>
+    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dn/ds/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/bittertastereceptors/</loc>
@@ -188,19 +164,19 @@
     <loc>/tags/height/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/interview/</loc>
+    <loc>/categories/interview/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/interview/</loc>
+    <loc>/tags/interview/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/2022-04-08-ashg-podcast/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/outreach/</loc>
+    <loc>/categories/outreach/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/outreach/</loc>
+    <loc>/tags/outreach/</loc>
     <lastmod>2022-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/podcast/</loc>
@@ -217,9 +193,6 @@
   </url><url>
     <loc>/talk/bioinformatics_chat/</loc>
     <lastmod>2021-03-25T19:43:33-04:00</lastmod>
-  </url><url>
-    <loc>/collection/</loc>
-    <lastmod>2021-01-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/admixture/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
@@ -353,6 +326,9 @@
     <loc>/talk/ashg2019/</loc>
     <lastmod>2019-10-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/form/</loc>
+    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
+  </url><url>
     <loc>/talk/ashg2018/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -476,7 +452,7 @@
     <loc>/categories/science-outreach/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>/talk/slides/my-first-slide/</loc>
   </url><url>
     <loc>/teaching/b110/</loc>
   </url><url>
@@ -485,8 +461,6 @@
     <loc>/teaching/b216/</loc>
   </url><url>
     <loc>/tags/biostatistics/</loc>
-  </url><url>
-    <loc>/tags/dn/ds/</loc>
   </url><url>
     <loc>/license/</loc>
   </url><url>

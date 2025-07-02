@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>journal club on Bárbara Bitarello</title>
+    <title>Journal Club on Bárbara Bitarello</title>
     <link>/tags/journal-club/</link>
-    <description>Recent content in journal club on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Journal Club on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/journal-club/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/journal-club/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations</title>
       <link>/blog/wang/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>/blog/wang/</guid>
-      <description>This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al (2020) on the theoretical aspects of the transferability of polygenic risk scores across ancestries.
-This work provides three predictors for the relative accuracy of a polygenic risk scores (i.e., the accuracy in a test population with different ancestry than that from which the summary statistics came from,divided by the accuracy in an independent test sample of same ancestry as the original GWAS).</description>
+      <description>&lt;p&gt;This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al &#xA;&lt;a href=&#34;https://www.nature.com/articles/s41467-020-17719-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(2020)&lt;/a&gt; on the theoretical aspects of the transferability of polygenic risk scores across ancestries.&lt;/p&gt;&#xA;&lt;p&gt;This work provides three predictors for the relative accuracy of a polygenic risk scores (i.e., the accuracy in a test population with different ancestry than that from which the summary statistics came from,divided by the accuracy in an independent test sample of same ancestry as the original GWAS). The three different predictors differ in their assumptions. All of them assume that the causal variants are the same across populations and that their effect sizes are 100% correlated. Predictor 1 requires that one knows what the causal variants are, as well as their degree of linkage disequilibrium with the genome-wide significant SNPs. In practice that is rarelly if ever known. Predictor 2 approximates this by doing a heuristic approach to select candidate causal variants for each GWS SNP. Finally, Predictor 3 assumes (rather naively as the authors state) that the GWS SNPs are the causal SNPs. In summary, their three predictors capture the impact of LD and allelic frequencies on PRS performance.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
