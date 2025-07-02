@@ -1,33 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>interview on Bárbara Bitarello</title>
+    <title>Interview on Bárbara Bitarello</title>
     <link>/tags/interview/</link>
-    <description>Recent content in interview on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Interview on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/interview/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/interview/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>American Society of Human Genetics (ASHG) Trainee Paper Spotlight</title>
       <link>/talk/ashg-podcast/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>/talk/ashg-podcast/</guid>
-      <description>Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
-Read the paper here: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;
-Listen here</description>
+      <description>&lt;p&gt;Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.&lt;/p&gt;&#xA;&lt;p&gt;Read the paper here:&#xA;&#xA;&lt;a href=&#34;https://academic.oup.com/g3journal/article/10/11/4027/6048638?login=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i class=&#34;fa-solid fa-podcast&#34;&gt;&lt;/i&gt; Listen &#xA;&lt;a href=&#34;https://share.transistor.fm/s/682fb248&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Boinformatics: Chatting about polygenic risk scores</title>
       <link>/talk/bioinformatics_chat/</link>
       <pubDate>Thu, 25 Mar 2021 19:43:33 -0400</pubDate>
-      
       <guid>/talk/bioinformatics_chat/</guid>
-      <description>Listen here.
-Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.
-In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.</description>
+      <description>&lt;p&gt;&lt;i class=&#34;fa-solid fa-podcast&#34;&gt;&lt;/i&gt; Listen &#xA;&lt;a href=&#34;https://bioinformatics.chat/polygenic-risk-scores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.&lt;/p&gt;&#xA;&lt;p&gt;In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

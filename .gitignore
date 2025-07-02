@@ -10,3 +10,10 @@ data/*.DS_Store
 .httr-oauth
 .quarto
 .DS_Store
+Thumbs.db
+.hugo_build.lock
+
+#because i use netlify to build site:
+
+/public/
+/resources/

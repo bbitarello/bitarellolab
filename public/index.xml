@@ -4,489 +4,296 @@
     <title>Bitarello Lab on Bárbara Bitarello</title>
     <link>/</link>
     <description>Recent content in Bitarello Lab on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Netlify</title>
-      <link>/collection/day02/01-netlify/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/day02/01-netlify/</guid>
-      <description>So far, we&amp;rsquo;ve been leveraging GitHub Pages for publishing. This works great, but for blogdown we&amp;rsquo;ll start using Netlify. Let&amp;rsquo;s start RIGHT NOW with a site we&amp;rsquo;ve already built and published.
-Pre-requisites Pick either your postcards site, or your distill site from day 01. Refresh your memory- which repository was it again?</description>
-    </item>
-    
-    <item>
-      <title>A GitHub profile</title>
-      <link>/collection/day01/01-github/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/day01/01-github/</guid>
-      <description>Profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/personalizing-your-profile
-Pin projects to profile https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/pinning-items-to-your-profile
-Profile README This is new! Let&amp;rsquo;s do it:
-https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme</description>
-    </item>
-    
-    <item>
-      <title>Prework</title>
-      <link>/collection/prework/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/prework/</guid>
-      <description>Welcome to the Introducing Yourself Online workshop! We look forward to meeting you. Before attending the workshop, please complete the following prework.
-Set up RStudio Cloud Sign up for a free RStudio Cloud account at https://rstudio.cloud/ before the workshop. I recommend logging in with an existing Google or GitHub account, if you have one (rather than creating a new account with another password you have to remember). I want you to be able to work from your own laptop in this workshop, but Cloud is an important back-up plan should you run into troubles.</description>
-    </item>
-    
-    <item>
-      <title>A postcard</title>
-      <link>/collection/day01/02-postcards/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/day01/02-postcards/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the postcards package installed from CRAN:
-install.packages(&amp;quot;postcards&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
-Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;quot;postcards&amp;quot;) [1] ‘0.2.0’ Create GitHub repo Online.
-Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-postcard.git&amp;quot;) ✨ Commit &amp;amp; Push! ✨</description>
-    </item>
-    
-    <item>
-      <title>Using blogdown</title>
-      <link>/collection/day02/02-blogdown/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/day02/02-blogdown/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the blogdown package installed from CRAN:
-install.packages(&amp;quot;blogdoown&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
-Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). packageVersion(&amp;quot;blogdown&amp;quot;) [1] ‘1.0’ Create GitHub repo Online.
-Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-blogdown.git&amp;quot;) ✨ Commit &amp;amp; Push! ✨</description>
-    </item>
-    
-    <item>
-      <title>A distill site</title>
-      <link>/collection/day01/03-distill/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/day01/03-distill/</guid>
-      <description>Pre-requisites First, make sure you have the latest version of the distill package installed from CRAN:
-install.packages(&amp;quot;distill&amp;quot;) Restart your R session. If you use RStudio, use the menu item Session &amp;gt; Restart R or the associated keyboard shortcut:
-Ctrl + Shift + F10 (Windows and Linux) or Command + Shift + F10 (Mac OS). &amp;lt;!-- --&amp;gt; packageVersion(&amp;quot;distill&amp;quot;) [1] ‘1.2’ Create GitHub repo Online.
-Clone GitHub repo usethis::create_from_github(&amp;quot;https://github.com/apreshill/global-distill.git&amp;quot;) ✨ Commit &amp;amp; Push!</description>
-    </item>
-    
-    <item>
-      <title>Warm woolen mittens</title>
-      <link>/collection/day02/03-blogdown/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/day02/03-blogdown/</guid>
-      <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.
-Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}
-My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
-    </item>
-    
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Balancing selection</title>
       <link>/project/balancingselection/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/project/balancingselection/</guid>
-      <description>Balancing Selection is an umbrella term Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.</description>
+      <description>&lt;h3 id=&#34;balancing-selection-is-an-umbrella-term&#34;&gt;Balancing Selection is an umbrella term&#xA;  &lt;a href=&#34;#balancing-selection-is-an-umbrella-term&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Balancing selection is an umbrella term for several selective mechanisms that result in the maintenance of adaptive genetic diversity in populations. Among these are heterozygote advantage, negative-frequency dependent selection, and selective pressures which vary in time and space, resulting in the maintenance of more than one allele segregating within a population for longer than expected under neutral evolution.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Daphne Hansell</title>
       <link>/people/daphne/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/daphne/</guid>
-      <description>Pronouns: she/her/hers
-Fun Fact: I love to bake, listen to podcasts and feed stray cats.
-In the Lab: Joined summer 2023 to work on an R package to calculate balancing selection. My interests are all things R! Also worked on developing an R package for the B215: Biostatistics with R course. Stayed until graduating (Spring 2024).
-balselr - Balancing Selection Tests in R Broader project: Balancing selection: mechanisms, timescales, and signatures.</description>
+      <description>&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: I love to bake, listen to podcasts and feed stray cats.&lt;/p&gt;&#xA;&lt;p&gt;In the Lab: Joined summer 2023 to work on an R package to calculate balancing selection. My interests are all things R! Also worked on developing an R package for the B215: Biostatistics with R course. Stayed until graduating (Spring 2024).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;balselr---balancing-selection-tests-in-r&#34;&gt;balselr - Balancing Selection Tests in R&#xA;  &lt;a href=&#34;#balselr---balancing-selection-tests-in-r&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/balancingselection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balancing selection: mechanisms, timescales, and signatures. &lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Evolution of bitter taste receptors in primates</title>
       <link>/project/bittertastereceptors/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/project/bittertastereceptors/</guid>
-      <description>Why is this interesting? [under construction]</description>
+      <description>&lt;h3 id=&#34;why-is-this-interesting&#34;&gt;Why is this interesting?&#xA;  &lt;a href=&#34;#why-is-this-interesting&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;[under construction]&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kira Morozova</title>
       <link>/people/kiramorozova/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/kiramorozova/</guid>
-      <description> Hometown: Moscow, Russia
-Fun fact: I take pictures with a lot of traffic cones, because they’re orange like my hair:)
-Favorite book: The Gray House, by Maryam Petrosyan
-In the lab: joined us for the summer research program 2024. Continued research in the lab in Spring 2025 and summer 2025.
-Broader project: Balancing selection: mechanisms, timescales, and signatures. </description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Hometown: Moscow, Russia&lt;/p&gt;&#xA;&lt;p&gt;Fun fact: I take pictures with a lot of traffic cones, because they’re orange like my hair:)&lt;/p&gt;&#xA;&lt;p&gt;Favorite book: The Gray House, by Maryam Petrosyan&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us for the summer research program 2024. Continued research in the lab in Spring 2025 and summer 2025.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/balancingselection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balancing selection: mechanisms, timescales, and signatures. &lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kuankuan Hu</title>
       <link>/people/kuankuanhu/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/kuankuanhu/</guid>
-      <description> Pronouns: she/her/hers
-Hometown: Beijing, China
-Fun Fact: My favorite cartoon character is Snoopy
-In the lab: joined us in Spring 2024
-Broader project: Balancing selection: mechanisms, timescales, and signatures. </description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Hometown: Beijing, China&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: My favorite cartoon character is Snoopy&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us in Spring 2024&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/balancingselection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balancing selection: mechanisms, timescales, and signatures. &lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nicole Cavalieri</title>
       <link>/people/nicolecavalieri/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/nicolecavalieri/</guid>
-      <description>Pronouns: she/her/hers
-Hometown: Staten Island, New York
-Fun Fact: I have the same birthday as Mick Jagger
-In the lab: Worked on R teaching materials with the BMC Digital Scholarship Grant in summer 2023</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Hometown: Staten Island, New York&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: I have the same birthday as Mick Jagger&lt;/p&gt;&#xA;&lt;p&gt;In the lab: Worked on R teaching materials with the BMC Digital Scholarship Grant in summer 2023&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
-    
     <item>
       <title>Clementine Chen</title>
       <link>/people/clementine/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/clementine/</guid>
-      <description>Pronouns: she/her/hers
-Hometown: Jinhua, China
-Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
-In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
-Update: starting a Masters program in Fall 2024 in Computational Biology and Quantitative Genetics @ Harvard T.H. Chan school of Public Health.
-Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Hometown: Jinhua, China&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).&lt;/p&gt;&#xA;&lt;p&gt;Update: starting a Masters program in Fall 2024 in Computational Biology and Quantitative Genetics @ &#xA;&lt;a href=&#34;https://www.hsph.harvard.edu/sm-computational-biology/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard T.H. Chan school of Public Health&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;quantifying-the-evidence-for-adaptive-evolution-of-the-tas2r38-bitter-receptor-gene-in-primates&#34;&gt;Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates&#xA;  &lt;a href=&#34;#quantifying-the-evidence-for-adaptive-evolution-of-the-tas2r38-bitter-receptor-gene-in-primates&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/bittertastereceptors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution of bitter taste receptors in primates and other mammals&lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Gillyoung Koh</title>
       <link>/people/gillyoung/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/gillyoung/</guid>
-      <description>Pronouns: she/her/hers
-From Broomall, PA
-Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
-In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
-Update: taking a year off before applying to medical schools.
-Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;From Broomall, PA&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).&lt;/p&gt;&#xA;&lt;p&gt;Update: taking a year off before applying to medical schools.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;investigation-of-long-term-diversifying-evolution-in-tas2r14-a-promiscuous-bitter-taste-receptor-in-primates&#34;&gt;Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates&#xA;  &lt;a href=&#34;#investigation-of-long-term-diversifying-evolution-in-tas2r14-a-promiscuous-bitter-taste-receptor-in-primates&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/bittertastereceptors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution of bitter taste receptors in primates and other mammals&lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Levi Raskin</title>
       <link>/people/levi/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/levi/</guid>
-      <description>Fun Fact: My favorite Disney-adjacent character is the Iron Giant.
-From Oak Park, Illinois
-In the lab: Joined us in Spring 2023, working on phylogenetic signal, phylogenetic methods, and hominin life history evolution. Co-mentured by Maja Šešelj.
-Update: starting a PhD in Fall 2024 at UC Berkeley’s Integrative Biology program with (Dr. John Huelsenbeck)[https://vcresearch.berkeley.edu/faculty/john-huelsenbeck].</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Fun Fact: My favorite Disney-adjacent character is the Iron Giant.&lt;/p&gt;&#xA;&lt;p&gt;From Oak Park, Illinois&lt;/p&gt;&#xA;&lt;p&gt;In the lab: Joined us in Spring 2023, working on phylogenetic signal, phylogenetic methods, and hominin life history evolution. Co-mentured by &#xA;&lt;a href=&#34;https://www.brynmawr.edu/inside/people/maja-seselj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maja Šešelj&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Update: starting a PhD in Fall 2024 at UC Berkeley’s Integrative Biology program with (Dr. John Huelsenbeck)[https://vcresearch.berkeley.edu/faculty/john-huelsenbeck].&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
-    
     <item>
       <title>Shriya Shivakumar</title>
       <link>/people/shriya/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>/people/shriya/</guid>
-      <description>Fun Fact: I enjoy cooking, baking, eating extremely spicy food, reading and watching rom-coms. I also love Thai food and the chameleon, Pascal, from Tangled.
-In the lab: joined us 2022 in a dual mentorship program with Chris Thom at CHOP.</description>
+      <description>&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Fun Fact: I enjoy cooking, baking, eating extremely spicy food, reading and watching rom-coms. I also love Thai food and the chameleon, Pascal, from Tangled.&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us 2022 in a dual mentorship program with &#xA;&lt;a href=&#34;https://www.research.chop.edu/thom-lab/team&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris Thom&lt;/a&gt; at CHOP.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
-    
     <item>
       <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus.</title>
       <link>/publication/fads_2023/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 02 Mar 2023 10:00:00 +0000</pubDate>
       <guid>/publication/fads_2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Inferring Balancing Selection From Genome-Scale Data</title>
       <link>/publication/bls_2023/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 02 Mar 2023 10:00:00 +0000</pubDate>
       <guid>/publication/bls_2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Ancestry Matters: Lack of Representation of Human Genetic Diversity in Genomic Databases</title>
       <link>/talk/2022-06-29-ancestry-matters-lack-of-representation-of-human-genetic-diversity-in-genomic-databases/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      
       <guid>/talk/2022-06-29-ancestry-matters-lack-of-representation-of-human-genetic-diversity-in-genomic-databases/</guid>
-      <description>I was delighted to have been invited as one of the guest speakers for this series of talks, followed by an in-person discussion in Boston.</description>
+      <description>&lt;img src=&#34;images/featured.jpg&#34; alt=&#34;&#34; width=&#34;50%&#34; height=&#34;10%&#34;/&gt;&#xA;&lt;p&gt;I was delighted to have been invited as one of the guest speakers for this series of talks, followed by an in-person discussion in Boston.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>American Society of Human Genetics (ASHG) Trainee Paper Spotlight</title>
       <link>/talk/ashg-podcast/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>/talk/ashg-podcast/</guid>
-      <description>Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
-Read the paper here: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;
-Listen here</description>
+      <description>&lt;p&gt;Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.&lt;/p&gt;&#xA;&lt;p&gt;Read the paper here:&#xA;&#xA;&lt;a href=&#34;https://academic.oup.com/g3journal/article/10/11/4027/6048638?login=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i class=&#34;fa-solid fa-podcast&#34;&gt;&lt;/i&gt; Listen &#xA;&lt;a href=&#34;https://share.transistor.fm/s/682fb248&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Interview: American Society of Human Genetics (ASHG) Trainee Paper Spotlight</title>
       <link>/talk/2022-04-08-ashg-podcast/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>/talk/2022-04-08-ashg-podcast/</guid>
-      <description>Listen here
-EPISODE DETAILS Hosts, Andrew Marderstein and Lucia Hindorff, chat with Barbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
-Link to the publication which the podcast is focusing on: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;</description>
+      <description>&lt;p&gt;Listen &#xA;&lt;a href=&#34;https://share.transistor.fm/s/682fb248&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;episode-details&#34;&gt;EPISODE DETAILS&#xA;  &lt;a href=&#34;#episode-details&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Hosts, Andrew Marderstein and Lucia Hindorff, chat with Barbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.&lt;/p&gt;&#xA;&lt;p&gt;Link to the publication which the podcast is focusing on:&#xA;&#xA;&lt;a href=&#34;https://academic.oup.com/g3journal/article/10/11/4027/6048638?login=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Predicting skeletal stature using ancient DNA</title>
       <link>/publication/cox_2021/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 02 Nov 2021 10:00:00 +0000</pubDate>
       <guid>/publication/cox_2021/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kyra Kovačić</title>
       <link>/people/kyra/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>/people/kyra/</guid>
-      <description>In the lab: September 2021-May 2022 - the first of their kind!
-Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;30%&#34;/&gt;&#xA;&lt;p&gt;In the lab: September 2021-May 2022 - the first of their kind!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;senior-thesis-project-investigating-signatures-of-adaptive-evolution-in-mammalian-bitter-taste-receptor-genes-and-pseudogenes&#34;&gt;Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo;&#xA;  &lt;a href=&#34;#senior-thesis-project-investigating-signatures-of-adaptive-evolution-in-mammalian-bitter-taste-receptor-genes-and-pseudogenes&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/bittertastereceptors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution of bitter taste receptors in primates and other mammals&lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Boinformatics: Chatting about polygenic risk scores</title>
       <link>/talk/bioinformatics_chat/</link>
       <pubDate>Thu, 25 Mar 2021 19:43:33 -0400</pubDate>
-      
       <guid>/talk/bioinformatics_chat/</guid>
-      <description>Listen here.
-Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.
-In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.</description>
+      <description>&lt;p&gt;&lt;i class=&#34;fa-solid fa-podcast&#34;&gt;&lt;/i&gt; Listen &#xA;&lt;a href=&#34;https://bioinformatics.chat/polygenic-risk-scores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.&lt;/p&gt;&#xA;&lt;p&gt;In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Polygenic scores for height in admixed populations</title>
       <link>/publication/bitarello-2020/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 02 Nov 2020 10:00:00 +0000</pubDate>
       <guid>/publication/bitarello-2020/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Theoretical and empirical quantification of the accuracy of polygenic scores in ancestry divergent populations</title>
       <link>/blog/wang/</link>
       <pubDate>Sun, 06 Sep 2020 00:00:00 +0000</pubDate>
-      
       <guid>/blog/wang/</guid>
-      <description>This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al (2020) on the theoretical aspects of the transferability of polygenic risk scores across ancestries.
-This work provides three predictors for the relative accuracy of a polygenic risk scores (i.e., the accuracy in a test population with different ancestry than that from which the summary statistics came from,divided by the accuracy in an independent test sample of same ancestry as the original GWAS).</description>
+      <description>&lt;p&gt;This week in Journal Club at the Mathieson Lab we discussed the recently published paper by Wang et. al &#xA;&lt;a href=&#34;https://www.nature.com/articles/s41467-020-17719-y&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(2020)&lt;/a&gt; on the theoretical aspects of the transferability of polygenic risk scores across ancestries.&lt;/p&gt;&#xA;&lt;p&gt;This work provides three predictors for the relative accuracy of a polygenic risk scores (i.e., the accuracy in a test population with different ancestry than that from which the summary statistics came from,divided by the accuracy in an independent test sample of same ancestry as the original GWAS). The three different predictors differ in their assumptions. All of them assume that the causal variants are the same across populations and that their effect sizes are 100% correlated. Predictor 1 requires that one knows what the causal variants are, as well as their degree of linkage disequilibrium with the genome-wide significant SNPs. In practice that is rarelly if ever known. Predictor 2 approximates this by doing a heuristic approach to select candidate causal variants for each GWS SNP. Finally, Predictor 3 assumes (rather naively as the authors state) that the GWS SNPs are the causal SNPs. In summary, their three predictors capture the impact of LD and allelic frequencies on PRS performance.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How The Lion King turned me into a scientist</title>
       <link>/blog/how-lion-king/</link>
       <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
-      
       <guid>/blog/how-lion-king/</guid>
-      <description>How &#34;The Lion King&#34; turned me into a scientistRecently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...</description>
+      <description>&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://medium.com/@barbara_dutty/how-the-lion-king-turned-me-into-a-scientist-6c9df108ec73&#34;&gt;How &#34;The Lion King&#34; turned me into a scientist&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Recently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>GnomAD API Query Tool</title>
       <link>/blog/gnomad-api-query/</link>
       <pubDate>Tue, 21 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>/blog/gnomad-api-query/</guid>
-      <description>Tl; dr, I love to tell a good story. If you don&amp;rsquo;t wanna read that, no worries. Just skip ahead or get straight to business!
-Now, to the story.
-I have been working on a project where I was using population allelic frequencies for about 6,000 SNPs (single nucleotide polymorphisms) for CEU (North Americans from UTAH with European ancestry) individuals from the 1000 Genomes Project. We have our own copy of this dataset in our computer, and it&amp;rsquo;s relatively straightforward to get those frequencies from vcf files.</description>
+      <description>&lt;p&gt;Tl; dr, I love to tell a good story. If you don&amp;rsquo;t wanna read that, no worries. Just &#xA;&lt;a href=&#34;#a-brief-tutorial&#34;&gt;skip ahead&lt;/a&gt; or get &#xA;&lt;a href=&#34;https://github.com/crankysparrow/computationalbio&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;straight to business&lt;/a&gt;!&lt;/p&gt;&#xA;&lt;p&gt;Now, to the story.&lt;/p&gt;&#xA;&lt;p&gt;I have been working on a project where I was using population allelic frequencies for about 6,000 SNPs (single nucleotide polymorphisms) for CEU (North Americans from UTAH with European ancestry) individuals from the &#xA;&lt;a href=&#34;https://www.internationalgenome.org/faq/what-do-your-population-codes-ceu-or-tsi-mean/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;1000 Genomes Project&lt;/a&gt;. We have our own copy of this dataset in our computer, and it&amp;rsquo;s relatively straightforward to get those frequencies from vcf files. All good.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Polygenic Risk Scores performance in diverse ancestry populations</title>
       <link>/project/polygenicriskscores/</link>
       <pubDate>Sat, 04 Jul 2020 14:18:14 -0400</pubDate>
-      
       <guid>/project/polygenicriskscores/</guid>
-      <description>Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.
-Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple ad hoc approaches (such as C+T) or model-based approaches such as LDpred and LDpred2.</description>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;Polygenic risk scores (PRS) summarise the genetic information spread across several genetic variants into one single number. This number can be use to predict an individual&amp;rsquo;s phenotype or - more realistically - to place an individual in risk groups according to their PRS.&lt;/p&gt;&#xA;&lt;p&gt;Many different steps are involved in calculating a PRS that is meaningful. For instance, the quality of the summary statistics is paramount. The choice of which variants to include in the PRS is also far from trivial and can involve simple &lt;em&gt;ad hoc&lt;/em&gt; approaches (such as C+T) or model-based approaches such as LDpred and LDpred2. Finally, there are the issues of validation and overfitting in the validation set, as well as the even more complicated issue of transferability of polygenic risk scores across ancestries. This project touches upon all of these issues, but particularly on the latter.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>LDpred2: Better, Faster, Stronger</title>
       <link>/blog/ldpred2/</link>
       <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
-      
       <guid>/blog/ldpred2/</guid>
-      <description>Today we discussed the new version of LDpred: LDpred2 (preprint here).
-The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the original publication. Rather, this seems to be a ‘Bioinformatics’ style preprint that goes straight to the novelties:
-LDpred2 runs in R instead of in Python like its predecessor;</description>
+      <description>&lt;p&gt;Today we discussed the new version of LDpred: LDpred2 (preprint &#xA;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1.full.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;).&lt;/p&gt;&#xA;&lt;p&gt;The preprint is short and technical and does not go through the trouble of explaining the models implemented in LDpred1 and LDpred2, since that has been described in great detail in the &#xA;&lt;a href=&#34;https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4596916/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;original publication&lt;/a&gt;. Rather, this seems to be a ‘Bioinformatics’ style preprint that goes straight to the novelties:&lt;/p&gt;&#xA;&lt;p&gt;LDpred2 runs in R instead of in Python like its predecessor;&lt;/p&gt;&#xA;&lt;p&gt;LDpred2 has four implementations (LDpred2-inf, LDpred2, LDpred2-sparse, LDpred2-auto), compared to two from its predecessor (LDpred-inf, LDpred);&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Low transferability of height polygenic risk scores in admixed ancestry populations</title>
       <link>/talk/nypopgen2020/</link>
       <pubDate>Fri, 17 Jan 2020 00:00:00 +0000</pubDate>
-      
       <guid>/talk/nypopgen2020/</guid>
-      <description>Abstract Polygenic risk scores (PRS) summarize the results of GWAS into a single number that can predict quantitative phenotype or disease risk. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts. There are many possible reasons for this decrease; here we show that differences in allele frequencies, LD patterns, and phenotypic variance across ancestries are unlikely to be driving this pattern.</description>
+      <description>&lt;h3 id=&#34;abstract&#34;&gt;Abstract&#xA;  &lt;a href=&#34;#abstract&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Polygenic risk scores (PRS) summarize the results of GWAS into a single number that can predict quantitative phenotype or disease risk. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts. There are many possible reasons for this decrease; here we show that  differences in allele frequencies, LD patterns, and phenotypic variance across ancestries are unlikely to be driving this pattern. We focus on PRS for height in cohorts with admixed African and European ancestry, which allows us to test for ancestry-related differences in PRS prediction while controlling for environment. We first show that that the predictive power of height PRS increases linearly with European ancestry (partial R2 ranges from 0.02-0.12 for 0-100% European ancestry). We replicate this pattern with effect sizes re-estimated within sibling pairs, ruling out residual population structure. This pattern persists when PRS is computed using subsets of SNPs in regions of both high and low LD and ancestry-related differences in effect size are not correlated with local recombination rate. This suggests that differences in LD are not a major driver of low transferability. Next, we show that frequency differences of associated variants between African and European ancestry backgrounds explain only up to 11% of the observed reduction in predictive power and that there is no association between ancestry and phenotypic variance, indicating that the reduction in PRS predictive power cannot be explained by causal variants that are specific to the African ancestry background. Finally, we see a modest improvement in prediction when using a multi-PRS approach that includes ancestry-specific effect sizes in the PRS. We conclude that the reduced predictive power in non-European ancestry populations is largely explained by differences in causal effect sizes across these ancestries.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Investigating the lack of transferability of polygenic risk scores in cohorts with admixed ancestry</title>
       <link>/talk/ashg2019/</link>
       <pubDate>Fri, 18 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>/talk/ashg2019/</guid>
-      <description>Abstract | Polygenic risk scores (PRS) can be used to summarize the results of genome-wide association studies (GWAS) into a single number representing the risk of disease. For some traits (for example, cardiovascular disease, breast cancer) PRS allows us to identify individuals with clinically actionable levels of risk in the tails of the PRS distribution. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts.</description>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract |&#xA;  &lt;a href=&#34;#abstract-&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Polygenic risk scores (PRS) can be used to summarize the results of genome-wide association studies (GWAS) into a single number representing the risk of disease. For some traits (for example, cardiovascular disease, breast cancer) PRS allows us to identify individuals with clinically actionable levels of risk in the tails of the PRS distribution. One barrier to the use of PRS in clinical practice is that the majority of GWAS come from cohorts of European ancestry, and predictive power is lower in non-European ancestry cohorts. There are many possible reasons for this decrease; here we investigate the performance of PRS in admixed cohorts to identify some of these reasons. We focus on the performance of PRS for height (a model polygenic trait) in cohorts with admixed African and European ancestry. Having multiple ancestry components in the same genome allows us to test for ancestry-related differences in PRS prediction while controlling for environmental differences. We first show that that the predictive power of height PRS increases linearly with European ancestry (partial R2ranges from 0.015-0.15 for 0-100% European ancestry). This effect is unaltered when we re-estimate effects-sizes using sibling pairs, ruling out residual population structure as an explanation. Second, we show that this pattern persists when PRS is computed using subsets of SNPs in regions of both high and low linkage disequilibrium (LD), indicating that differences in LD are not the only cause. Third, we show that frequency differences of associated variants between African and European ancestry backgrounds explain only up to 25% of the observed reduction in predictive power. Finally, we find that there is no association between ancestry and phenotypic variance, indicating that there is no relationship between ancestry and genetic variance, and that the reduction in PRS predictive power cannot be explained by causal variants that are specific to the African ancestry background. In conclusion, no single factor we investigated can explain the difference in predictive power across ancestries, hinting that other factors – for example heterogeneity in effect size – or a combination of multiple factors is responsible for this pattern. This study further highlights the need for more diversity in GWAS, as well as a better understanding of the complexities of variant discovery and portability across cohorts and ancestries.&amp;quot;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Polygenic risk scores perform poorly across populations</title>
       <link>/talk/ashg2018/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
-      
       <guid>/talk/ashg2018/</guid>
-      <description>Abstract | The vast majority of genome-wide association studies (GWAS) are performed in cohorts of European ancestry. Systematic differences in polygenic risk scores (PRS) between European and non-European ancestry populations are believed to be largely spurious. However, it is not clear whether they are completely inaccurate nor how much individual-level predictive power is lost by applying PRS based on European-ancestry GWAS to non-European ancestry populations. Finally, a quantitative understanding of the biological or statistical basis for the poor performance of PRS in non-European-ancestry populations is lacking.</description>
+      <description>&lt;h3 id=&#34;abstract-&#34;&gt;Abstract |&#xA;  &lt;a href=&#34;#abstract-&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;The vast majority of genome-wide association studies (GWAS) are performed in cohorts of European ancestry. Systematic differences in polygenic risk scores (PRS) between European and non-European ancestry populations are believed to be largely spurious. However, it is not clear whether they are completely inaccurate nor how much individual-level predictive power is lost by applying PRS based on European-ancestry GWAS to non-European ancestry populations. Finally, a quantitative understanding of the biological or statistical basis for the poor performance of PRS in non-European-ancestry populations is lacking. To test this, we explored how well PRS predict a well-studied and highly polygenic trait: height. We calculated PRS using 41 sets of independent SNPs based on distance (physical or genetic) or LD clumping and pruning methods. We first compared PRS based on effect sizes from two independent GWAS: GIANT and UK Biobank (UKB), both of which were performed in individuals of European ancestry. We replicate previous observations of population-level differences in PRS, but these results are significantly different depending on datasets and clumping strategies. Depending on clumping strategy, the average difference between 1000 Genomes European and African PRS varies from 0.57-6.75 standard deviations (SD) using GIANT and 0.48-2.16 SD using UKB summary statistics. This dependence on clumping strategy supports the idea that most of these differences are spurious. We then investigated individual-level prediction in ~7,300 African American (AA) and ~7,400 European American (EA) individuals. Using UKB effect sizes, we found that PRS explain ~1.7% of height variation in AA individuals, compared to about 5.5% of variation in EA individuals. In both AA and EA, PRS explains more of the variance in height in individuals with a higher proportion of European ancestry. Interestingly, although we find a significant positive correlation (r=0.262, p=7.3e-115) between PRS and European ancestry among AA individuals, the correlation between height and European ancestry is extremely low (r=-0.02, p=0.056) and genome-wide ancestry explains only 0.05% of the variance in height, confirming that cross-population differences in PRS do not correlate to phenotypic differences. Finally, we evaluated whether local ancestry improves prediction for non-European populations, investigated dependence on other genomic features and extended our model to other phenotypes.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Signatures of long-term balancing selection in human genomes</title>
       <link>/publication/2018-signatures-of-longerm-balancing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2018-signatures-of-longerm-balancing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A genomic perspective on HLA evolution</title>
       <link>/publication/2017-genomic-perspective-on-hla/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2017-genomic-perspective-on-hla/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Heterogeneity of dN/dS Ratios at the Classical HLA Class I Genes over Divergence Time and Across the Allelic Phylogeny</title>
       <link>/publication/2016-heterogeneity-of-dnds-ratios/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2016-heterogeneity-of-dnds-ratios/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HLA supertype variation across populations: new insights into the role of natural selection in the evolution of HLA-A and HLA-B polymorphisms</title>
       <link>/publication/2015-hla-supertype-variations-across-populations/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2015-hla-supertype-variations-across-populations/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kiwi genome provides insights into evolution of a nocturnal lifestyle</title>
       <link>/publication/2015-kiwi-genome/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2015-kiwi-genome/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Mapping bias overestimates reference allele frequencies at the HLA genes in the 1000 genomes project phase I data</title>
       <link>/publication/2015-mapping-bias-overestimates-reference/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2015-mapping-bias-overestimates-reference/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Intercruzmento de humanos modernos e neandertais: novas perspectivas a luz da genética</title>
       <link>/publication/2011-intercruzmento-de-humanos/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2011-intercruzmento-de-humanos/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Development of polymorphic microsatellite markers for the human botfly, Dermatobia hominis (Diptera: Oestridae)</title>
       <link>/publication/2009-development-of-polymorphic/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2009-development-of-polymorphic/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Projeto Genográfico e as Implicações da Popularização dos Estudos de Genealogia Gênica</title>
       <link>/publication/2009-projeto-genografico/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2009-projeto-genografico/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>/talk/slides/my-first-slide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/talk/slides/my-first-slide/</guid>
+      <description>&lt;!DOCTYPE html&gt;&#xA;&lt;html lang=&#34;en-us&#34;&gt;&#xA;&lt;head&gt;&#xA;  &#xA;  &#xA;&#xA;  &lt;meta charset=&#34;utf-8&#34;&gt;&#xA;  &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=1&#34;&gt;&#xA;  &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;&#xA;  &lt;meta name=&#34;generator&#34; content=&#34;Source Themes Academic 4.8.0&#34;&gt;&#xA;&#xA;  &lt;link rel=&#34;manifest&#34; href=&#34;/index.webmanifest&#34;&gt;&#xA;  &lt;link rel=&#34;icon&#34; type=&#34;image/png&#34; href=&#34;/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png&#34;&gt;&#xA;  &lt;link rel=&#34;apple-touch-icon&#34; type=&#34;image/png&#34; href=&#34;/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png&#34;&gt;&#xA;&#xA;  &lt;link rel=&#34;canonical&#34; href=&#34;https://bbitarello.github.io/slides/my-first-slide/&#34;&gt;&#xA;&#xA;  &lt;title&gt;LDpred2: Faster, Better, Stronger | Bárbara Bitarello&lt;/title&gt;&#xA;&#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/reveal.min.css&#34;&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/css/theme/black.min.css&#34;&gt;&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/dracula.min.css&#34; crossorigin=&#34;anonymous&#34;&gt;&#xA;&#xA;  &#xA;  &#xA;  &#xA;  &lt;link rel=&#34;stylesheet&#34; href=&#34;/css/reveal_custom.min.css&#34;&gt;&#xA;&#xA;  &#xA;  &lt;script&gt;&#xA;    var link = document.createElement( &#39;link&#39; );&#xA;    link.rel = &#39;stylesheet&#39;;&#xA;    link.type = &#39;text/css&#39;;&#xA;    link.href = window.location.search.match( /print-pdf/gi ) ? &#39;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/pdf.css&#39; : &#39;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/css/print/paper.css&#39;;&#xA;    document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link );&#xA;  &lt;/script&gt;&#xA;&#xA;&lt;/head&gt;&#xA;&lt;body&gt;&#xA;&#xA;  &#xA;&lt;div class=&#34;reveal&#34;&gt;&#xA;  &lt;div class=&#34;slides&#34;&gt;&#xA;    &#xA;    &#xA;    &#xA;&#xA;    &#xA;    &#xA;    &#xA;    &#xA;    &#xA;&#xA;    &#xA;    &#xA;&#xA;    &#xA;    &#xA;    &#xA;    &lt;section&gt;&#xA;    &#xA;      &lt;p&gt;Here is &#xA;&lt;a href=&#34;https://github.com/bbitarello/LDpred2-Presentation/blob/master/LDpred2_Journal_Club%20%283%29.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;a slide presentation&lt;/a&gt; for discussing the &#xA;&lt;a href=&#34;https://www.biorxiv.org/content/10.1101/2020.04.28.066720v1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LDpred2 preprint&lt;/a&gt;. Use freely but please give me attribution by referencing my website and my github. Thank you.&lt;/p&gt;&#xA;&#xA;    &lt;/section&gt;&#xA;    &#xA;&#xA;    &#xA;    &#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&#xA;&#xA;  &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.8.0/js/reveal.min.js&#34;&gt;&lt;/script&gt;&#xA;&#xA;  &lt;script&gt;&#xA;    window.revealPlugins = { dependencies: [&#xA;      &#xA;      { src: &#39;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/marked.js&#39;, condition: function() { return !!document.querySelector( &#39;[data-markdown]&#39; ); } },&#xA;      { src: &#39;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/markdown/markdown.js&#39;, condition: function() { return !!document.querySelector( &#39;[data-markdown]&#39; ); } },&#xA;      &#xA;      { src: &#39;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/highlight/highlight.js&#39;, async: true, callback: function() { hljs.initHighlightingOnLoad(); } },&#xA;      &#xA;      { src: &#39;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/zoom-js/zoom.js&#39;, async: true },&#xA;      &#xA;      { src: &#39;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/math/math.js&#39;, async: true },&#xA;      &#xA;      { src: &#39;https:\/\/cdnjs.cloudflare.com\/ajax\/libs\/reveal.js\/3.8.0/plugin/print-pdf/print-pdf.js&#39;, async: true },&#xA;      &#xA;      { src: &#39;\/js\/vendor\/reveal.js\/plugin\/notes\/notes.js&#39;, async: true }&#xA;    ]};&#xA;&#xA;    let revealDefaults = { center: true, controls: true, history: true, progress: true, transition: &#39;slide&#39;, mouseWheel: true };&#xA;    let revealOptions = Object.assign({}, revealDefaults, revealPlugins);&#xA;    Reveal.initialize(revealOptions);&#xA;  &lt;/script&gt;&#xA;&#xA;&lt;/body&gt;&#xA;&lt;/html&gt;</description>
+    </item>
     <item>
       <title>BIOL B110: Biological Explorations</title>
       <link>/teaching/b110/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/teaching/b110/</guid>
-      <description> syllabus (fall 2021)
-youtube playlist (fall 2021) </description>
+      <description>&lt;p&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt;&#xA;&#xA;&lt;a href=&#34;/static/pdf/110-2021-Course-information.pdf&#34;&gt;syllabus (fall 2021)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;youtube playlist (fall 2021)&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
-    
     <item>
       <title>BIOL B215: Biostatistics with R</title>
       <link>/teaching/b215/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/teaching/b215/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>BIOL B216: Genomics</title>
       <link>/teaching/b216/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/teaching/b216/</guid>
-      <description>Genomics is a young and fast-evolving field of science that lies at the intersection of genetics, computer science, and biotechnology. We will examine the types of biological questions that can be answered using large biological data sets and complete genome sequences and the techniques and technologies that make such studies possible. Our primary focus will be on animal genomes and, in particular, human genomes, with special attention to evolutionary aspects of genomic data analysis.</description>
+      <description>&lt;p&gt;Genomics is a young and fast-evolving field of science that lies at the intersection of genetics, computer science, and biotechnology. We will examine the types of biological questions that can be answered using large biological data sets and complete genome sequences and the techniques and technologies that make such studies possible. Our primary focus will be on animal genomes and, in particular, human genomes, with special attention to evolutionary aspects of genomic data analysis.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>License</title>
       <link>/license/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/license/</guid>
-      <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+      <description>&lt;p&gt;My &#xA;&lt;a href=&#34;/post/&#34;&gt;blog posts&lt;/a&gt; are released under a &#xA;&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;center&gt;&#xA;&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;&#xA;&lt;/center&gt;</description>
     </item>
-    
   </channel>
 </rss>

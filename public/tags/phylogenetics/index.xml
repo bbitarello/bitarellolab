@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>phylogenetics on Bárbara Bitarello</title>
+    <title>Phylogenetics on Bárbara Bitarello</title>
     <link>/tags/phylogenetics/</link>
-    <description>Recent content in phylogenetics on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Phylogenetics on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate><atom:link href="/tags/phylogenetics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/phylogenetics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Heterogeneity of dN/dS Ratios at the Classical HLA Class I Genes over Divergence Time and Across the Allelic Phylogeny</title>
       <link>/publication/2016-heterogeneity-of-dnds-ratios/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2016-heterogeneity-of-dnds-ratios/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

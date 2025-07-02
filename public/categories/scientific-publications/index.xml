@@ -1,92 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Scientific publications on Bárbara Bitarello</title>
+    <title>Scientific Publications on Bárbara Bitarello</title>
     <link>/categories/scientific-publications/</link>
-    <description>Recent content in Scientific publications on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Scientific Publications on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/scientific-publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/scientific-publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus.</title>
       <link>/publication/fads_2023/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 02 Mar 2023 10:00:00 +0000</pubDate>
       <guid>/publication/fads_2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Inferring Balancing Selection From Genome-Scale Data</title>
       <link>/publication/bls_2023/</link>
-      <pubDate>Thu, 06 Apr 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Thu, 02 Mar 2023 10:00:00 +0000</pubDate>
       <guid>/publication/bls_2023/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Predicting skeletal stature using ancient DNA</title>
       <link>/publication/cox_2021/</link>
-      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
-      
+      <pubDate>Tue, 02 Nov 2021 10:00:00 +0000</pubDate>
       <guid>/publication/cox_2021/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Polygenic scores for height in admixed populations</title>
       <link>/publication/bitarello-2020/</link>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-      
+      <pubDate>Mon, 02 Nov 2020 10:00:00 +0000</pubDate>
       <guid>/publication/bitarello-2020/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Signatures of long-term balancing selection in human genomes</title>
       <link>/publication/2018-signatures-of-longerm-balancing/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2018-signatures-of-longerm-balancing/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>A genomic perspective on HLA evolution</title>
       <link>/publication/2017-genomic-perspective-on-hla/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2017-genomic-perspective-on-hla/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>HLA supertype variation across populations: new insights into the role of natural selection in the evolution of HLA-A and HLA-B polymorphisms</title>
       <link>/publication/2015-hla-supertype-variations-across-populations/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2015-hla-supertype-variations-across-populations/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Kiwi genome provides insights into evolution of a nocturnal lifestyle</title>
       <link>/publication/2015-kiwi-genome/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2015-kiwi-genome/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Development of polymorphic microsatellite markers for the human botfly, Dermatobia hominis (Diptera: Oestridae)</title>
       <link>/publication/2009-development-of-polymorphic/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2009-development-of-polymorphic/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

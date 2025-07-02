@@ -1,42 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>outreach on Bárbara Bitarello</title>
+    <title>Outreach on Bárbara Bitarello</title>
     <link>/tags/outreach/</link>
-    <description>Recent content in outreach on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Outreach on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/outreach/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>American Society of Human Genetics (ASHG) Trainee Paper Spotlight</title>
       <link>/talk/ashg-podcast/</link>
       <pubDate>Thu, 31 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>/talk/ashg-podcast/</guid>
-      <description>Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.
-Read the paper here: &amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;
-Listen here</description>
+      <description>&lt;p&gt;Hosts, Andrew Marderstein and Lucia Hindorff, chat with Bárbara Bitarello on her work, &amp;quot; Polygenic Scores for Height in Admixed Populations&amp;quot; and what led to her career path. Check out the written interview by visiting the ASHG website.&lt;/p&gt;&#xA;&lt;p&gt;Read the paper here:&#xA;&#xA;&lt;a href=&#34;https://academic.oup.com/g3journal/article/10/11/4027/6048638?login=true&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;Polygenic Scores for Height in Admixed Populations&amp;rdquo;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;i class=&#34;fa-solid fa-podcast&#34;&gt;&lt;/i&gt; Listen &#xA;&lt;a href=&#34;https://share.transistor.fm/s/682fb248&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Boinformatics: Chatting about polygenic risk scores</title>
       <link>/talk/bioinformatics_chat/</link>
       <pubDate>Thu, 25 Mar 2021 19:43:33 -0400</pubDate>
-      
       <guid>/talk/bioinformatics_chat/</guid>
-      <description>Listen here.
-Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.
-In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.</description>
+      <description>&lt;p&gt;&lt;i class=&#34;fa-solid fa-podcast&#34;&gt;&lt;/i&gt; Listen &#xA;&lt;a href=&#34;https://bioinformatics.chat/polygenic-risk-scores&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Polygenic risk scores (PRS) rely on the genome-wide association studies (GWAS) to predict the phenotype based on the genotype. However, the prediction accuracy suffers when GWAS from one population are used to calculate PRS within a different population, which is a problem because the majority of the GWAS are done on cohorts of European ancestry.&lt;/p&gt;&#xA;&lt;p&gt;In this episode, Bárbara Bitarello helps us understand how PRS work and why they don’t transfer well across populations.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>How The Lion King turned me into a scientist</title>
       <link>/blog/how-lion-king/</link>
       <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
-      
       <guid>/blog/how-lion-king/</guid>
-      <description>How &#34;The Lion King&#34; turned me into a scientistRecently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...</description>
+      <description>&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://medium.com/@barbara_dutty/how-the-lion-king-turned-me-into-a-scientist-6c9df108ec73&#34;&gt;How &#34;The Lion King&#34; turned me into a scientist&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Recently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;</description>
     </item>
-    
   </channel>
 </rss>

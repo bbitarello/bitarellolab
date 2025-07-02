@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>mapping bias on Bárbara Bitarello</title>
+    <title>Mapping Bias on Bárbara Bitarello</title>
     <link>/tags/mapping-bias/</link>
-    <description>Recent content in mapping bias on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Mapping Bias on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mapping-bias/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/mapping-bias/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mapping bias overestimates reference allele frequencies at the HLA genes in the 1000 genomes project phase I data</title>
       <link>/publication/2015-mapping-bias-overestimates-reference/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>/publication/2015-mapping-bias-overestimates-reference/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

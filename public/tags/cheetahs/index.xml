@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cheetahs on Bárbara Bitarello</title>
+    <title>Cheetahs on Bárbara Bitarello</title>
     <link>/tags/cheetahs/</link>
-    <description>Recent content in cheetahs on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Cheetahs on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2020 14:29:47 -0400</lastBuildDate><atom:link href="/tags/cheetahs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Aug 2020 14:29:47 -0400</lastBuildDate>
+    <atom:link href="/tags/cheetahs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How The Lion King turned me into a scientist</title>
       <link>/blog/how-lion-king/</link>
       <pubDate>Sat, 01 Aug 2020 14:29:47 -0400</pubDate>
-      
       <guid>/blog/how-lion-king/</guid>
-      <description>How &#34;The Lion King&#34; turned me into a scientistRecently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...</description>
+      <description>&lt;blockquote class=&#34;embedly-card&#34;&gt;&lt;h4&gt;&lt;a href=&#34;https://medium.com/@barbara_dutty/how-the-lion-king-turned-me-into-a-scientist-6c9df108ec73&#34;&gt;How &#34;The Lion King&#34; turned me into a scientist&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Recently, my therapist asked me to do some homework. She asked me to reflect on the question &#34;what did I want to be when I grew up?&#34; looking as far back into the past as I could remember. A few...&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;script async src=&#34;//cdn.embedly.com/widgets/platform.js&#34; charset=&#34;UTF-8&#34;&gt;&lt;/script&gt;</description>
     </item>
-    
   </channel>
 </rss>

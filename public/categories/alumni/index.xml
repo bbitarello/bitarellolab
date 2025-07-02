@@ -1,73 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>alumni on Bárbara Bitarello</title>
+    <title>Alumni on Bárbara Bitarello</title>
     <link>/categories/alumni/</link>
-    <description>Recent content in alumni on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Alumni on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/alumni/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daphne Hansell</title>
       <link>/people/daphne/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/daphne/</guid>
-      <description>Pronouns: she/her/hers
-Fun Fact: I love to bake, listen to podcasts and feed stray cats.
-In the Lab: Joined summer 2023 to work on an R package to calculate balancing selection. My interests are all things R! Also worked on developing an R package for the B215: Biostatistics with R course. Stayed until graduating (Spring 2024).
-balselr - Balancing Selection Tests in R Broader project: Balancing selection: mechanisms, timescales, and signatures.</description>
+      <description>&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: I love to bake, listen to podcasts and feed stray cats.&lt;/p&gt;&#xA;&lt;p&gt;In the Lab: Joined summer 2023 to work on an R package to calculate balancing selection. My interests are all things R! Also worked on developing an R package for the B215: Biostatistics with R course. Stayed until graduating (Spring 2024).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;balselr---balancing-selection-tests-in-r&#34;&gt;balselr - Balancing Selection Tests in R&#xA;  &lt;a href=&#34;#balselr---balancing-selection-tests-in-r&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/balancingselection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balancing selection: mechanisms, timescales, and signatures. &lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Clementine Chen</title>
       <link>/people/clementine/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/clementine/</guid>
-      <description>Pronouns: she/her/hers
-Hometown: Jinhua, China
-Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.
-In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
-Update: starting a Masters program in Fall 2024 in Computational Biology and Quantitative Genetics @ Harvard T.H. Chan school of Public Health.
-Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Hometown: Jinhua, China&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: My favorite Disney characters are Alice and the Cheshire Cat.&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).&lt;/p&gt;&#xA;&lt;p&gt;Update: starting a Masters program in Fall 2024 in Computational Biology and Quantitative Genetics @ &#xA;&lt;a href=&#34;https://www.hsph.harvard.edu/sm-computational-biology/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Harvard T.H. Chan school of Public Health&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;quantifying-the-evidence-for-adaptive-evolution-of-the-tas2r38-bitter-receptor-gene-in-primates&#34;&gt;Quantifying the evidence for adaptive evolution of the TAS2R38 bitter receptor gene in primates&#xA;  &lt;a href=&#34;#quantifying-the-evidence-for-adaptive-evolution-of-the-tas2r38-bitter-receptor-gene-in-primates&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/bittertastereceptors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution of bitter taste receptors in primates and other mammals&lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Gillyoung Koh</title>
       <link>/people/gillyoung/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/gillyoung/</guid>
-      <description>Pronouns: she/her/hers
-From Broomall, PA
-Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.
-In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).
-Update: taking a year off before applying to medical schools.
-Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;From Broomall, PA&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: My favorite Disney character is Olaf because of how adorable and funny he is.&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us for the summer research program 2022 and stayed until graduating (Spring 2024).&lt;/p&gt;&#xA;&lt;p&gt;Update: taking a year off before applying to medical schools.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h2 id=&#34;investigation-of-long-term-diversifying-evolution-in-tas2r14-a-promiscuous-bitter-taste-receptor-in-primates&#34;&gt;Investigation of Long-Term Diversifying Evolution In TAS2R14, A Promiscuous Bitter Taste Receptor In Primates&#xA;  &lt;a href=&#34;#investigation-of-long-term-diversifying-evolution-in-tas2r14-a-promiscuous-bitter-taste-receptor-in-primates&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/bittertastereceptors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution of bitter taste receptors in primates and other mammals&lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Levi Raskin</title>
       <link>/people/levi/</link>
       <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/levi/</guid>
-      <description>Fun Fact: My favorite Disney-adjacent character is the Iron Giant.
-From Oak Park, Illinois
-In the lab: Joined us in Spring 2023, working on phylogenetic signal, phylogenetic methods, and hominin life history evolution. Co-mentured by Maja Šešelj.
-Update: starting a PhD in Fall 2024 at UC Berkeley’s Integrative Biology program with (Dr. John Huelsenbeck)[https://vcresearch.berkeley.edu/faculty/john-huelsenbeck].</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Fun Fact: My favorite Disney-adjacent character is the Iron Giant.&lt;/p&gt;&#xA;&lt;p&gt;From Oak Park, Illinois&lt;/p&gt;&#xA;&lt;p&gt;In the lab: Joined us in Spring 2023, working on phylogenetic signal, phylogenetic methods, and hominin life history evolution. Co-mentured by &#xA;&lt;a href=&#34;https://www.brynmawr.edu/inside/people/maja-seselj&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Maja Šešelj&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Update: starting a PhD in Fall 2024 at UC Berkeley’s Integrative Biology program with (Dr. John Huelsenbeck)[https://vcresearch.berkeley.edu/faculty/john-huelsenbeck].&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
-    
     <item>
       <title>Kyra Kovačić</title>
       <link>/people/kyra/</link>
       <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
-      
       <guid>/people/kyra/</guid>
-      <description>In the lab: September 2021-May 2022 - the first of their kind!
-Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo; Broader project: Evolution of bitter taste receptors in primates and other mammals/</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;30%&#34;/&gt;&#xA;&lt;p&gt;In the lab: September 2021-May 2022 - the first of their kind!&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&#xA;&#xA;&lt;h3 id=&#34;senior-thesis-project-investigating-signatures-of-adaptive-evolution-in-mammalian-bitter-taste-receptor-genes-and-pseudogenes&#34;&gt;Senior Thesis Project: &amp;ldquo;Investigating Signatures of Adaptive Evolution in Mammalian Bitter Taste Receptor Genes and Pseudogenes&amp;rdquo;&#xA;  &lt;a href=&#34;#senior-thesis-project-investigating-signatures-of-adaptive-evolution-in-mammalian-bitter-taste-receptor-genes-and-pseudogenes&#34;&gt;&lt;svg class=&#34;anchor-symbol&#34; aria-hidden=&#34;true&#34; height=&#34;26&#34; width=&#34;26&#34; viewBox=&#34;0 0 22 22&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&#xA;      &lt;path d=&#34;M0 0h24v24H0z&#34; fill=&#34;currentColor&#34;&gt;&lt;/path&gt;&#xA;      &lt;path d=&#34;M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z&#34;&gt;&lt;/path&gt;&#xA;    &lt;/svg&gt;&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/bittertastereceptors/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Evolution of bitter taste receptors in primates and other mammals&lt;/a&gt;/&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -1,59 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>research students on Bárbara Bitarello</title>
+    <title>Research Students on Bárbara Bitarello</title>
     <link>/categories/research-students/</link>
-    <description>Recent content in research students on Bárbara Bitarello</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Research Students on Bárbara Bitarello</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="/categories/research-students/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/research-students/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kira Morozova</title>
       <link>/people/kiramorozova/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/kiramorozova/</guid>
-      <description> Hometown: Moscow, Russia
-Fun fact: I take pictures with a lot of traffic cones, because they’re orange like my hair:)
-Favorite book: The Gray House, by Maryam Petrosyan
-In the lab: joined us for the summer research program 2024. Continued research in the lab in Spring 2025 and summer 2025.
-Broader project: Balancing selection: mechanisms, timescales, and signatures. </description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Hometown: Moscow, Russia&lt;/p&gt;&#xA;&lt;p&gt;Fun fact: I take pictures with a lot of traffic cones, because they’re orange like my hair:)&lt;/p&gt;&#xA;&lt;p&gt;Favorite book: The Gray House, by Maryam Petrosyan&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us for the summer research program 2024. Continued research in the lab in Spring 2025 and summer 2025.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/balancingselection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balancing selection: mechanisms, timescales, and signatures. &lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Kuankuan Hu</title>
       <link>/people/kuankuanhu/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/kuankuanhu/</guid>
-      <description> Pronouns: she/her/hers
-Hometown: Beijing, China
-Fun Fact: My favorite cartoon character is Snoopy
-In the lab: joined us in Spring 2024
-Broader project: Balancing selection: mechanisms, timescales, and signatures. </description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Hometown: Beijing, China&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: My favorite cartoon character is Snoopy&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us in Spring 2024&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Broader project: &#xA;&lt;a href=&#34;https://bitarellolab.netlify.app/project/balancingselection/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Balancing selection: mechanisms, timescales, and signatures. &lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Nicole Cavalieri</title>
       <link>/people/nicolecavalieri/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      
       <guid>/people/nicolecavalieri/</guid>
-      <description>Pronouns: she/her/hers
-Hometown: Staten Island, New York
-Fun Fact: I have the same birthday as Mick Jagger
-In the lab: Worked on R teaching materials with the BMC Digital Scholarship Grant in summer 2023</description>
+      <description>&lt;img src=&#34;featured.jpg&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Pronouns: she/her/hers&lt;/p&gt;&#xA;&lt;p&gt;Hometown: Staten Island, New York&lt;/p&gt;&#xA;&lt;p&gt;Fun Fact: I have the same birthday as Mick Jagger&lt;/p&gt;&#xA;&lt;p&gt;In the lab: Worked on R teaching materials with the BMC Digital Scholarship Grant in summer 2023&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
-    
     <item>
       <title>Shriya Shivakumar</title>
       <link>/people/shriya/</link>
       <pubDate>Mon, 05 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>/people/shriya/</guid>
-      <description>Fun Fact: I enjoy cooking, baking, eating extremely spicy food, reading and watching rom-coms. I also love Thai food and the chameleon, Pascal, from Tangled.
-In the lab: joined us 2022 in a dual mentorship program with Chris Thom at CHOP.</description>
+      <description>&lt;img src=&#34;featured.png&#34; alt=&#34;&#34; width=&#34;30%&#34; height=&#34;20%&#34;/&gt;&#xA;&lt;p&gt;Fun Fact: I enjoy cooking, baking, eating extremely spicy food, reading and watching rom-coms. I also love Thai food and the chameleon, Pascal, from Tangled.&lt;/p&gt;&#xA;&lt;p&gt;In the lab: joined us 2022 in a dual mentorship program with &#xA;&lt;a href=&#34;https://www.research.chop.edu/thom-lab/team&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chris Thom&lt;/a&gt; at CHOP.&lt;/p&gt;&#xA;&lt;hr&gt;</description>
     </item>
-    
   </channel>
 </rss>
