@@ -8,5 +8,5 @@ Thumbs.db
 
 #because i use netlify to build site:
 
-/public/
+public/
 resources/
