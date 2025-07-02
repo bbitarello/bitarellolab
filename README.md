@@ -6,6 +6,9 @@ Let's test this.(again)
 Useful commands
 
 ```{r}
+# install.packages("usethis")
+# check that this works
+#usethis::git_sitrep()
 blogdown::check_config()
 blogdown::serve_site()
 blogdown::stop_server()

@@ -35,7 +35,7 @@ Fun fact: I take pictures with a lot of traffic cones, because they’re orange 
 
 Favorite book: The Gray House, by Maryam Petrosyan
 
-In the lab: joined us for the summer research program 2023
+In the lab: joined us for the summer research program 2024. Continued research in the lab in Spring 2025 and summer 2025.
 
 -----------------------------------------------------------------
 

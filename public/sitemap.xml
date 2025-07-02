@@ -32,10 +32,10 @@
     <loc>/categories/alumni/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/project/balancingselection/</loc>
+    <loc>/tags/balancing-selection/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/balancing-selection/</loc>
+    <loc>/project/balancingselection/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/</loc>
@@ -48,9 +48,6 @@
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/people/daphne/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/dn/ds/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/bittertastereceptors/</loc>
@@ -80,10 +77,10 @@
     <loc>/project/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/research-projects/</loc>
+    <loc>/categories/research-projects/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/research-projects/</loc>
+    <loc>/tags/research-projects/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/research-students/</loc>
@@ -356,9 +353,6 @@
     <loc>/talk/ashg2019/</loc>
     <lastmod>2019-10-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/form/</loc>
-    <lastmod>2019-02-25T13:38:41-06:00</lastmod>
-  </url><url>
     <loc>/talk/ashg2018/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -482,7 +476,7 @@
     <loc>/categories/science-outreach/</loc>
     <lastmod>2009-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/talk/slides/my-first-slide/</loc>
+    <loc>/about/</loc>
   </url><url>
     <loc>/teaching/b110/</loc>
   </url><url>
@@ -491,6 +485,8 @@
     <loc>/teaching/b216/</loc>
   </url><url>
     <loc>/tags/biostatistics/</loc>
+  </url><url>
+    <loc>/tags/dn/ds/</loc>
   </url><url>
     <loc>/license/</loc>
   </url><url>

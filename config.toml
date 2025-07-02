@@ -44,7 +44,7 @@ enableEmoji = true
   # Place image file in `static` folder and specify image name here.
   sharing_image = "/img/papillons.jpg"
   # Twitter username (without @). Used when a visitor shares your site on Twitter.
-  twitter = "dudutchy"
+#  twitter = "dudutchy"
   
   # use a built-in color theme
   # one of: forest / grayscale / peach / plum /
@@ -90,18 +90,18 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/bitarellolab/"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/dudutchy"
+#  [[params.social]]
+#      icon      = "twitter" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://twitter.com/dudutchy"
   [[params.social]]
       icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
       url       = "https://scholar.google.com/citations?user=4N3s92MAAAAJ&hl=en"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/dudutchy"
+ # [[params.social]]
+#      icon      = "twitter" # icon name without the 'fa-'
+#      icon_pack = "fab"
+#      url       = "https://twitter.com/dudutchy"
   [[params.social]]
       icon      = "impactstory" # icon name without the 'fa-'
       icon_pack = "ai"
