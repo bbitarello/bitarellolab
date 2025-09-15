@@ -2,6 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/teaching/b215/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/biostatistics/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/r/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rstudio/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/statistics/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/teaching/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/teaching/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/teaching-materials/</loc>
+    <lastmod>2025-09-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/categories/alumni/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +39,6 @@
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/balancing-selection/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/bitter-taste-receptors/</loc>
@@ -62,12 +89,6 @@
     <loc>/categories/research-students/</loc>
     <lastmod>2024-06-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/teaching/</loc>
-    <lastmod>2024-06-05T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/people/clementine/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
@@ -76,6 +97,15 @@
   </url><url>
     <loc>/people/levi/</loc>
     <lastmod>2024-05-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/mr_2024/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/scientific-publications/</loc>
+    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/people/shriya/</loc>
     <lastmod>2023-06-05T00:00:00+00:00</lastmod>
@@ -107,13 +137,7 @@
     <loc>/tags/population-genomics/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication/</loc>
-    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/review/</loc>
-    <lastmod>2023-04-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/scientific-publications/</loc>
     <lastmod>2023-04-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/talk/</loc>
@@ -456,26 +480,12 @@
   </url><url>
     <loc>/teaching/b110/</loc>
   </url><url>
-    <loc>/teaching/b215/</loc>
-  </url><url>
     <loc>/teaching/b216/</loc>
-  </url><url>
-    <loc>/tags/biostatistics/</loc>
   </url><url>
     <loc>/license/</loc>
   </url><url>
     <loc>/tags/molecular-biology/</loc>
   </url><url>
-    <loc>/tags/r/</loc>
-  </url><url>
-    <loc>/tags/rstudio/</loc>
-  </url><url>
     <loc>/series/</loc>
-  </url><url>
-    <loc>/tags/statistics/</loc>
-  </url><url>
-    <loc>/teaching/</loc>
-  </url><url>
-    <loc>/tags/teaching-materials/</loc>
   </url>
 </urlset>

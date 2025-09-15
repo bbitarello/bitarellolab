@@ -6,8 +6,50 @@
     <description>Recent content in Tags on Bárbara Bitarello</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Biostatistics</title>
+      <link>/tags/biostatistics/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/biostatistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>R</title>
+      <link>/tags/r/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/r/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Rstudio</title>
+      <link>/tags/rstudio/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/rstudio/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Statistics</title>
+      <link>/tags/statistics/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/statistics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>/tags/teaching/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/teaching/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Teaching Materials</title>
+      <link>/tags/teaching-materials/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>/tags/teaching-materials/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Balancing Selection</title>
       <link>/tags/balancing-selection/</link>
@@ -55,13 +97,6 @@
       <link>/tags/research-projects/</link>
       <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
       <guid>/tags/research-projects/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>/tags/teaching/</link>
-      <pubDate>Wed, 05 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>/tags/teaching/</guid>
       <description></description>
     </item>
     <item>
@@ -646,45 +681,10 @@
       <description></description>
     </item>
     <item>
-      <title>Biostatistics</title>
-      <link>/tags/biostatistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/biostatistics/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Molecular Biology</title>
       <link>/tags/molecular-biology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/tags/molecular-biology/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/r/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Rstudio</title>
-      <link>/tags/rstudio/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/rstudio/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Statistics</title>
-      <link>/tags/statistics/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/statistics/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teaching Materials</title>
-      <link>/tags/teaching-materials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/tags/teaching-materials/</guid>
       <description></description>
     </item>
   </channel>
