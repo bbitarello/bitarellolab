@@ -1,10 +1,11 @@
 ---
-title: "About us"
+title: "About"
 description: |
       The Bitarello Lab @ BMC
-show_header: true
+show_header: false
 sidebar_left: true
 # Keep this! Do not edit.
+headless: false
 cascade:
   headless: true
 ---
